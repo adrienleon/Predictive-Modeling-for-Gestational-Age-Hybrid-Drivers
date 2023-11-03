@@ -1,0 +1,1527 @@
+HouseID,PersonID,Age,Education,Gender,OnlineOrders,PhysicalActivity,DistanceToWork,TimeToWork,Area,Urban,AnnualMiles,HybridDriver
+30001013,1,48,Bachelor Degree,Female,3,Vigorous,13.33,25,LAOC,Urban,12000,No
+30001785,1,59,Some College,Female,0,Light,48.46,90,IE,Urban,20000,No
+30002253,1,58,Some College,Male,15,Light,9.07,20,IE,Suburban,8000,No
+30002507,2,48,Graduate or Professional Degree,Male,1,Light,17.35,15,LAOC,Urban,30000,No
+30002762,1,48,Graduate or Professional Degree,Female,1,Light,15.71,120,IE,Suburban,60000,No
+30002933,1,49,Bachelor Degree,Female,2,Light,5.13,15,LAOC,Urban,7000,Yes
+30004024,2,39,Graduate or Professional Degree,Male,0,Vigorous,24.19,30,LAOC,Urban,11000,No
+30004426,1,38,Some College,Female,0,Light,11.35,15,LAOC,Small Town/Rural,100000,No
+30004426,2,46,Some College,Male,0,None,8.24,10,LAOC,Small Town/Rural,20000,No
+30004647,2,47,Bachelor Degree,Female,5,Light,12,30,LAOC,Urban,10000,No
+30005526,1,53,Bachelor Degree,Male,3,Vigorous,2.42,15,LAOC,Urban,7000,No
+30005590,2,50,Graduate or Professional Degree,Female,3,Vigorous,6.45,15,LAOC,Urban,5000,No
+30005883,2,43,Bachelor Degree,Female,4,Light,20.13,20,LAOC,Urban,15000,No
+30006031,1,50,Graduate or Professional Degree,Male,5,Light,39.71,90,LAOC,Suburban,20000,No
+30006031,2,55,Bachelor Degree,Female,10,Light,28.97,50,LAOC,Suburban,5000,No
+30006599,1,52,Some College,Male,2,Light,16.63,45,LAOC,Urban,25000,No
+30006686,1,67,Graduate or Professional Degree,Male,0,Light,26.96,50,LAOC,Urban,11000,No
+30007456,1,78,Some College,Male,0,Light,0.59,10,IE,Small Town/Rural,10000,No
+30007952,1,66,Bachelor Degree,Female,10,Vigorous,0.81,5,IE,Urban,1000,No
+30009173,1,35,Some College,Female,0,None,42.61,135,LAOC,Urban,22000,No
+30010917,1,55,Bachelor Degree,Female,10,Light,28.08,45,LAOC,Urban,20000,Yes
+30010917,2,59,Graduate or Professional Degree,Male,4,None,18.15,40,LAOC,Urban,9500,No
+30019349,2,53,Bachelor Degree,Female,5,Light,7.46,30,LAOC,Urban,30000,No
+30019702,1,30,Bachelor Degree,Male,4,Light,5.86,20,LAOC,Urban,20000,No
+30020332,1,40,Graduate or Professional Degree,Male,1,Light,9.6,20,LAOC,Small Town/Rural,10000,No
+30020332,4,30,Bachelor Degree,Male,3,Vigorous,10.66,10,LAOC,Small Town/Rural,15000,No
+30020898,1,52,Graduate or Professional Degree,Male,0,Vigorous,4.61,15,LAOC,Urban,8000,Yes
+30021552,1,40,Some College,Female,5,Light,5.09,30,LAOC,Urban,15000,No
+30021552,2,45,High School Graduate,Male,0,Light,14.29,30,LAOC,Urban,10000,No
+30022399,2,29,Some College,Male,4,Vigorous,21.34,45,LAOC,Urban,25000,No
+30022607,2,48,Graduate or Professional Degree,Female,2,Light,6.19,20,LAOC,Suburban,7000,No
+30023110,1,56,Some College,Male,0,Vigorous,10.26,30,IE,Small Town/Rural,14000,No
+30023110,2,55,Some College,Female,10,Vigorous,37.4,70,IE,Small Town/Rural,20000,No
+30023924,1,51,Some College,Female,10,Light,5.42,10,IE,Urban,6000,No
+30024296,1,47,Less than High School,Female,2,Light,9.6,60,LAOC,Urban,34000,No
+30024800,1,31,Graduate or Professional Degree,Female,1,Light,5.4,35,LAOC,Urban,16000,No
+30024800,2,28,Bachelor Degree,Male,0,Light,2.52,10,LAOC,Urban,15000,No
+30025453,2,28,High School Graduate,Female,0,Light,7.77,30,LAOC,Urban,8000,No
+30025910,1,40,Bachelor Degree,Male,3,Vigorous,9.83,25,IE,Urban,15000,No
+30026251,1,44,Some College,Female,4,Light,8.19,15,LAOC,Urban,7000,Yes
+30026551,1,38,Bachelor Degree,Male,0,Light,7.05,20,LAOC,Urban,8000,No
+30027253,2,56,High School Graduate,Female,2,None,4.65,5,LAOC,Suburban,12000,No
+30028729,1,40,Some College,Male,0,Light,23.84,40,IE,Suburban,20000,No
+30028771,1,40,Some College,Male,2,Light,45.56,40,IE,Urban,25000,No
+30028796,1,46,Graduate or Professional Degree,Female,15,Vigorous,6.45,20,LAOC,Urban,8500,No
+30028897,2,54,Bachelor Degree,Female,10,Vigorous,3.55,5,LAOC,Urban,10000,No
+30030923,4,25,Bachelor Degree,Male,5,None,10.1,10,LAOC,Suburban,10000,No
+30031344,1,31,Bachelor Degree,Female,2,Vigorous,2.62,15,LAOC,Urban,10000,Yes
+30032622,1,47,Some College,Male,5,Vigorous,49.23,45,LAOC,Urban,20000,Yes
+30032622,2,46,Graduate or Professional Degree,Female,4,Vigorous,14.54,25,LAOC,Urban,10000,No
+30032658,1,53,High School Graduate,Male,0,Light,32.77,35,LAOC,Urban,4800,No
+30032918,1,46,Bachelor Degree,Female,1,Light,12.07,20,LAOC,Urban,8000,No
+30032959,1,69,Bachelor Degree,Male,2,Light,12.2,25,LAOC,Suburban,12500,No
+30033698,1,62,Some College,Male,0,Light,14.12,30,LAOC,Suburban,12000,Yes
+30033698,2,53,High School Graduate,Female,1,Light,14.12,35,LAOC,Suburban,15000,No
+30034102,1,30,Bachelor Degree,Female,1,Light,6.04,20,LAOC,Urban,8000,No
+30034446,1,30,Bachelor Degree,Female,4,Vigorous,19.53,45,LAOC,Urban,10000,No
+30034446,2,29,Bachelor Degree,Male,5,Vigorous,10.18,20,LAOC,Urban,7000,No
+30034660,2,52,Bachelor Degree,Male,0,Light,4.06,30,LAOC,Urban,6000,No
+30034660,3,20,Some College,Male,10,Vigorous,4.25,30,LAOC,Urban,5000,No
+30035359,1,49,Some College,Female,10,Vigorous,10.5,30,LAOC,Suburban,12000,No
+30035892,1,63,Some College,Male,1,Light,32.7,45,IE,Suburban,12000,No
+30037460,1,49,Graduate or Professional Degree,Female,2,Light,17.57,90,LAOC,Urban,15000,No
+30037588,1,52,High School Graduate,Female,3,Light,6.33,15,IE,Suburban,5500,No
+30038870,1,35,Bachelor Degree,Male,0,Vigorous,11.85,25,LAOC,Suburban,20000,No
+30038870,2,38,Bachelor Degree,Female,3,Vigorous,20.64,30,LAOC,Suburban,10000,No
+30041894,2,71,High School Graduate,Female,1,None,12.59,15,IE,Urban,8000,No
+30042216,2,43,Bachelor Degree,Male,0,Vigorous,9.46,15,LAOC,Urban,7200,Yes
+30043192,1,44,Less than High School,Male,0,None,1.78,15,IE,Small Town/Rural,7000,No
+30046286,2,29,Bachelor Degree,Female,5,Vigorous,9.89,40,LAOC,Urban,10000,No
+30048301,1,30,Graduate or Professional Degree,Female,5,Vigorous,37.34,60,LAOC,Urban,27000,No
+30048301,2,30,Graduate or Professional Degree,Male,5,Vigorous,25.51,30,LAOC,Urban,15000,No
+30048407,2,31,Bachelor Degree,Female,4,Vigorous,4.82,20,IE,Suburban,10000,No
+30049583,1,59,Graduate or Professional Degree,Male,0,Light,23.36,45,LAOC,Suburban,20000,No
+30049583,2,57,Graduate or Professional Degree,Female,0,Light,28.78,30,LAOC,Suburban,15000,No
+30051220,3,46,High School Graduate,Male,0,Light,24.35,30,IE,Urban,18000,No
+30051559,1,36,Graduate or Professional Degree,Female,15,None,19.25,45,LAOC,Suburban,10000,No
+30052468,1,59,Graduate or Professional Degree,Female,0,Light,7.41,30,IE,Urban,1500,No
+30052655,1,33,Graduate or Professional Degree,Male,5,Vigorous,23.82,60,LAOC,Urban,20000,No
+30052957,2,69,Graduate or Professional Degree,Female,2,Light,1.45,5,LAOC,Suburban,3000,No
+30056667,1,35,Less than High School,Male,0,Light,1.63,10,LAOC,Urban,4000,No
+30057238,1,42,Bachelor Degree,Female,15,Light,9.51,25,LAOC,Suburban,8000,No
+30059518,1,57,Bachelor Degree,Female,1,Light,12.27,25,IE,Urban,6000,No
+30060310,2,46,Bachelor Degree,Male,3,Light,30.69,60,LAOC,Small Town/Rural,50000,No
+30060310,4,19,Some College,Female,0,Vigorous,53.34,60,LAOC,Small Town/Rural,7000,No
+30061397,1,71,Graduate or Professional Degree,Male,0,Light,20.58,60,LAOC,Suburban,17000,No
+30061502,3,22,Graduate or Professional Degree,Male,3,Vigorous,17.21,55,LAOC,Suburban,10000,No
+30061502,4,60,Bachelor Degree,Male,3,None,3.21,10,LAOC,Suburban,12000,No
+30063611,1,42,High School Graduate,Male,0,Light,11.09,30,LAOC,Urban,10000,No
+30063673,2,76,Graduate or Professional Degree,Male,2,Vigorous,18.61,60,LAOC,Small Town/Rural,15000,No
+30064251,1,50,High School Graduate,Male,0,Vigorous,28.17,30,IE,Small Town/Rural,15000,No
+30065784,2,62,Graduate or Professional Degree,Female,4,Vigorous,13.96,20,IE,Suburban,14000,No
+30066125,2,65,Graduate or Professional Degree,Female,2,Light,13.86,30,LAOC,Urban,3600,No
+30066125,3,26,High School Graduate,Female,5,Light,2.45,10,LAOC,Urban,5000,No
+30066373,1,50,Graduate or Professional Degree,Female,2,Vigorous,15.34,55,LAOC,Urban,7000,No
+30066373,2,52,Bachelor Degree,Male,3,Vigorous,5,20,LAOC,Urban,10000,Yes
+30066613,1,41,Some College,Male,2,Vigorous,53.91,55,LAOC,Urban,24000,No
+30066821,1,52,Graduate or Professional Degree,Female,4,Vigorous,12.54,45,LAOC,Suburban,10000,No
+30066969,3,21,Some College,Female,2,Light,10.04,25,LAOC,Urban,3000,No
+30067206,1,42,Graduate or Professional Degree,Male,5,Vigorous,1.87,10,LAOC,Urban,5000,No
+30067206,2,41,Graduate or Professional Degree,Female,10,Light,14.23,20,LAOC,Urban,8000,No
+30068323,1,53,Bachelor Degree,Female,3,Light,9.21,20,LAOC,Urban,8370,No
+30069022,1,68,Bachelor Degree,Female,3,Light,16.19,25,LAOC,Urban,10000,No
+30069655,1,52,High School Graduate,Female,5,None,6.08,15,IE,Urban,3000,No
+30070370,1,62,Graduate or Professional Degree,Female,0,Light,11.57,50,LAOC,Urban,25000,No
+30071591,1,40,Bachelor Degree,Male,10,Light,8.67,20,LAOC,Urban,20000,No
+30071834,1,44,Some College,Female,5,Light,29.99,45,LAOC,Urban,20000,No
+30071834,2,45,Less than High School,Male,0,Light,10.97,30,LAOC,Urban,100000,No
+30072980,2,44,Bachelor Degree,Male,2,Light,4.26,10,IE,Urban,5000,No
+30073870,2,58,High School Graduate,Female,0,Light,19.93,35,IE,Suburban,10000,No
+30076279,2,50,Bachelor Degree,Female,10,Light,5.61,25,LAOC,Urban,12000,No
+30076506,1,53,Bachelor Degree,Male,2,Light,11.69,30,LAOC,Suburban,12000,No
+30076506,2,56,Graduate or Professional Degree,Female,3,Light,6.27,20,LAOC,Suburban,12000,Yes
+30076629,1,30,Some College,Female,1,Light,0.46,5,IE,Suburban,7500,No
+30076629,2,34,Some College,Female,0,None,5.89,20,IE,Suburban,6300,No
+30077908,1,57,Some College,Female,0,Light,3.23,20,LAOC,Suburban,6000,No
+30078586,1,49,Bachelor Degree,Female,4,Light,1.39,5,LAOC,Urban,12000,No
+30078586,2,51,Some College,Male,1,Light,44.92,80,LAOC,Urban,25000,Yes
+30078586,3,18,High School Graduate,Male,0,Vigorous,6.91,15,LAOC,Urban,3000,No
+30078880,2,57,Some College,Male,0,Light,11.48,20,LAOC,Urban,21000,No
+30080138,2,22,Bachelor Degree,Male,3,Light,8.84,30,LAOC,Urban,8000,No
+30080140,1,43,Bachelor Degree,Female,5,Vigorous,15.66,25,LAOC,Urban,12000,No
+30081608,1,64,Bachelor Degree,Male,3,Light,17.95,25,LAOC,Suburban,8500,No
+30081815,2,61,Some College,Male,1,Light,23.59,60,LAOC,Suburban,2300,No
+30082317,1,50,Some College,Male,10,Vigorous,46.67,60,IE,Suburban,20000,No
+30083606,1,53,Graduate or Professional Degree,Male,0,Light,2.93,15,LAOC,Urban,10000,No
+30084203,1,36,Graduate or Professional Degree,Female,4,Light,11.82,40,IE,Urban,12000,Yes
+30084203,2,37,Some College,Male,0,Light,11.82,20,IE,Urban,12000,No
+30085115,2,61,Bachelor Degree,Male,0,Light,8.76,20,IE,Suburban,13000,No
+30085235,1,36,Bachelor Degree,Male,5,Vigorous,87.2,90,IE,Small Town/Rural,26000,No
+30086349,1,55,Some College,Male,5,Light,38.56,45,IE,Urban,28500,No
+30088074,2,63,High School Graduate,Male,5,None,2.16,10,LAOC,Urban,10000,No
+30089483,1,58,Bachelor Degree,Female,1,Light,35.19,55,LAOC,Suburban,10000,Yes
+30089911,1,38,Some College,Female,5,Light,2.47,10,LAOC,Urban,2000,No
+30089978,1,32,Bachelor Degree,Male,0,Light,5.3,30,LAOC,Urban,6000,Yes
+30091243,2,57,Some College,Female,2,Light,8.28,15,IE,Suburban,7500,No
+30091849,1,55,Some College,Female,10,Light,46.5,45,IE,Suburban,10000,No
+30091922,1,42,Graduate or Professional Degree,Male,3,Vigorous,10.3,20,LAOC,Suburban,20000,No
+30091922,2,28,Bachelor Degree,Female,5,Vigorous,19.2,50,LAOC,Suburban,10000,No
+30092446,1,35,Bachelor Degree,Male,2,Light,16.6,25,LAOC,Suburban,15000,No
+30092446,2,35,Some College,Female,3,Vigorous,13.7,30,LAOC,Suburban,13000,No
+30092619,1,35,Bachelor Degree,Female,0,Vigorous,24.12,45,LAOC,Urban,11000,No
+30094044,1,47,Some College,Female,1,Light,28.04,90,LAOC,Urban,1500,No
+30094861,1,63,Some College,Male,5,Light,2.1,10,IE,Urban,10000,No
+30094866,1,26,Graduate or Professional Degree,Male,20,Vigorous,39,45,LAOC,Urban,20000,No
+30096031,1,51,Graduate or Professional Degree,Male,0,Light,44.99,75,LAOC,Suburban,15000,No
+30096031,3,25,Bachelor Degree,Female,0,Vigorous,19.43,50,LAOC,Suburban,5000,No
+30096031,4,24,Bachelor Degree,Female,0,Light,5.73,30,LAOC,Suburban,10000,No
+30096031,5,20,High School Graduate,Female,0,Vigorous,5.73,45,LAOC,Suburban,5000,No
+30096198,1,45,Bachelor Degree,Female,10,Light,14.9,25,LAOC,Suburban,9000,No
+30097550,2,86,Bachelor Degree,Male,0,Light,4.27,45,LAOC,Suburban,5000,No
+30100588,1,34,Graduate or Professional Degree,Female,5,Light,1.84,15,LAOC,Urban,5000,No
+30100588,2,23,Bachelor Degree,Female,3,Vigorous,2.21,15,LAOC,Urban,7000,No
+30100655,2,64,Some College,Female,1,Light,2.77,15,LAOC,Suburban,5000,No
+30105314,1,78,Bachelor Degree,Male,0,Light,50.82,60,LAOC,Suburban,30000,No
+30105500,1,49,Graduate or Professional Degree,Female,0,Light,8.66,20,LAOC,Urban,15000,No
+30105643,1,31,Some College,Female,15,None,3.6,15,LAOC,Urban,5000,No
+30105643,2,32,High School Graduate,Male,5,Light,6.05,25,LAOC,Urban,5000,No
+30108725,1,39,Some College,Female,3,Light,82.23,210,IE,Suburban,44200,No
+30110052,2,35,Graduate or Professional Degree,Male,5,Light,15.71,25,IE,Urban,10000,No
+30110341,1,64,Bachelor Degree,Male,3,Light,24.61,40,LAOC,Urban,12000,No
+30112132,1,31,Graduate or Professional Degree,Female,1,None,13.03,60,LAOC,Urban,10000,No
+30112132,2,31,Some College,Male,0,None,17.17,60,LAOC,Urban,15000,No
+30112959,2,31,Graduate or Professional Degree,Female,1,Vigorous,11.83,15,IE,Suburban,12000,No
+30114361,2,63,Bachelor Degree,Female,1,Light,16.99,30,LAOC,Urban,6000,No
+30115667,1,42,Graduate or Professional Degree,Male,5,Vigorous,7.56,20,LAOC,Urban,7000,No
+30115667,2,44,Bachelor Degree,Female,2,Vigorous,41.21,65,LAOC,Urban,16000,No
+30116277,1,52,Some College,Female,1,None,16.81,20,LAOC,Urban,15000,Yes
+30116277,2,46,Graduate or Professional Degree,Male,2,Vigorous,12.28,30,LAOC,Urban,20000,No
+30116811,2,30,High School Graduate,Male,0,Light,37.5,30,LAOC,Urban,14000,No
+30118100,2,66,Bachelor Degree,Male,3,Light,38.34,40,LAOC,Suburban,15000,Yes
+30119236,2,59,Bachelor Degree,Female,0,Vigorous,1.34,10,LAOC,Urban,1510,No
+30120216,1,45,Graduate or Professional Degree,Female,2,Vigorous,3.36,20,LAOC,Urban,3000,Yes
+30121445,1,53,Graduate or Professional Degree,Female,3,Light,5.09,15,IE,Small Town/Rural,5000,No
+30121445,2,54,High School Graduate,Male,1,Vigorous,18.03,30,IE,Small Town/Rural,8000,No
+30122331,1,61,High School Graduate,Female,1,Light,1.04,5,IE,Urban,1000,No
+30122331,2,66,High School Graduate,Male,4,Light,1.04,5,IE,Urban,1000,No
+30122823,1,34,Bachelor Degree,Male,4,None,20.06,60,LAOC,Urban,30000,No
+30122823,2,34,Some College,Female,3,None,17.6,45,LAOC,Urban,12000,No
+30122823,3,64,High School Graduate,Female,3,None,10.46,50,LAOC,Urban,5000,No
+30123967,2,48,Bachelor Degree,Male,3,Vigorous,2.21,15,LAOC,Urban,4500,No
+30124013,1,27,Bachelor Degree,Male,1,Light,4.3,15,LAOC,Urban,8000,No
+30125712,2,44,Graduate or Professional Degree,Female,2,Vigorous,24.86,35,LAOC,Urban,15000,No
+30126162,1,26,Some College,Male,4,Light,15.75,40,LAOC,Urban,17000,No
+30126818,1,66,Graduate or Professional Degree,Male,4,Vigorous,15.56,30,IE,Urban,20000,No
+30127998,1,71,Graduate or Professional Degree,Male,10,Vigorous,52.1,75,LAOC,Suburban,20000,No
+30128431,1,43,Some College,Male,4,Light,65.36,70,IE,Urban,85000,No
+30129094,1,45,Bachelor Degree,Female,4,None,7.64,30,LAOC,Urban,10000,No
+30129123,1,42,Some College,Male,4,Light,13.2,35,LAOC,Urban,13000,No
+30129445,1,42,Less than High School,Male,1,Light,20.4,15,LAOC,Urban,15000,No
+30129445,3,19,High School Graduate,Male,3,Vigorous,1.91,5,LAOC,Urban,2400,No
+30130358,1,61,Graduate or Professional Degree,Female,0,Light,10.5,20,LAOC,Urban,20000,No
+30130358,3,21,High School Graduate,Female,0,None,2.83,10,LAOC,Urban,10000,No
+30130515,1,69,Some College,Female,4,Light,55.94,75,LAOC,Urban,45000,No
+30130850,1,84,Graduate or Professional Degree,Male,1,Light,3.69,20,LAOC,Urban,8000,No
+30131865,2,73,Bachelor Degree,Female,0,Light,7.7,20,LAOC,Suburban,1500,No
+30131866,1,69,Some College,Male,0,Vigorous,58.48,140,IE,Small Town/Rural,50000,No
+30132764,2,61,Bachelor Degree,Female,0,Vigorous,8.96,25,LAOC,Urban,5000,Yes
+30132936,1,50,Graduate or Professional Degree,Female,15,Vigorous,7,20,LAOC,Suburban,10000,No
+30133082,1,60,Graduate or Professional Degree,Female,0,Vigorous,31.23,40,IE,Suburban,20000,No
+30133082,2,57,Graduate or Professional Degree,Male,4,Vigorous,3.23,10,IE,Suburban,15000,No
+30133215,1,66,Some College,Female,2,Light,9.02,20,LAOC,Suburban,8000,No
+30133874,1,33,Graduate or Professional Degree,Female,15,None,10.08,15,LAOC,Suburban,12000,No
+30133874,2,34,Bachelor Degree,Male,5,Light,5.61,15,LAOC,Suburban,12000,No
+30135091,1,48,Graduate or Professional Degree,Male,2,Light,19.11,40,LAOC,Urban,12000,No
+30135091,2,46,Graduate or Professional Degree,Female,4,Light,1.61,10,LAOC,Urban,11000,No
+30135382,1,57,Bachelor Degree,Female,0,Light,7.72,15,LAOC,Suburban,3600,No
+30135653,1,30,Graduate or Professional Degree,Female,3,Vigorous,24.16,50,LAOC,Urban,15000,Yes
+30137591,1,35,Graduate or Professional Degree,Male,5,Light,23.16,60,LAOC,Urban,12000,No
+30137591,2,47,Graduate or Professional Degree,Female,1,Light,23.16,60,LAOC,Urban,12000,No
+30137603,2,56,Less than High School,Male,0,Light,12.68,15,IE,Urban,5000,No
+30137603,4,40,Less than High School,Male,5,Light,1.64,10,IE,Urban,5000,No
+30140116,1,45,Some College,Male,0,Light,11.1,20,IE,Urban,30000,No
+30140116,2,40,Bachelor Degree,Female,0,Light,6.41,20,IE,Urban,22000,No
+30140145,1,47,Bachelor Degree,Female,2,Vigorous,5.35,15,LAOC,Suburban,7000,No
+30140145,3,20,Some College,Male,2,None,37.4,60,LAOC,Suburban,4800,No
+30140610,1,46,Graduate or Professional Degree,Female,5,Light,16.94,45,LAOC,Urban,20000,No
+30140610,2,60,Graduate or Professional Degree,Female,3,Light,12.17,30,LAOC,Urban,25000,No
+30140851,1,55,Bachelor Degree,Male,10,Light,29.67,45,LAOC,Suburban,12000,No
+30144178,1,47,Graduate or Professional Degree,Male,0,Vigorous,12.8,25,LAOC,Urban,12000,No
+30146608,1,58,Bachelor Degree,Male,4,Vigorous,19.3,25,LAOC,Urban,7500,No
+30146608,2,50,Graduate or Professional Degree,Female,5,Light,11.02,25,LAOC,Urban,7500,No
+30147457,1,49,Bachelor Degree,Female,5,Light,12.78,25,LAOC,Urban,11000,No
+30148119,1,32,Some College,Female,5,Light,9.19,40,LAOC,Urban,7000,No
+30148119,2,34,Bachelor Degree,Male,10,Light,15.26,30,LAOC,Urban,12000,Yes
+30148241,1,41,Bachelor Degree,Male,10,Light,15.5,55,LAOC,Urban,2000,No
+30149390,1,55,Some College,Male,1,Light,5.79,20,LAOC,Suburban,20000,No
+30149398,1,57,Bachelor Degree,Male,3,Light,47.32,90,LAOC,Urban,38000,No
+30150415,1,54,Some College,Female,2,Light,5.59,15,LAOC,Suburban,17000,No
+30150415,3,27,Bachelor Degree,Female,2,Light,7.1,25,LAOC,Suburban,13000,No
+30150779,1,62,Less than High School,Female,1,Light,4.73,15,LAOC,Urban,10000,No
+30150779,2,69,High School Graduate,Male,0,Light,9.57,20,LAOC,Urban,12795,No
+30150826,1,65,Bachelor Degree,Female,10,Light,2.21,15,IE,Small Town/Rural,8000,No
+30151212,1,42,Graduate or Professional Degree,Female,2,Light,11.99,20,LAOC,Urban,1000,No
+30151514,1,47,Some College,Female,2,Light,1.83,10,IE,Suburban,2000,No
+30151514,2,47,Some College,Male,0,Light,64.11,90,IE,Suburban,12000,No
+30151777,1,51,Some College,Female,5,Light,8.51,20,LAOC,Suburban,10000,No
+30153692,1,55,Graduate or Professional Degree,Female,2,Vigorous,14.82,25,LAOC,Urban,10000,No
+30154053,1,62,Bachelor Degree,Female,1,Light,7.08,20,IE,Urban,1100,No
+30154177,1,67,Bachelor Degree,Male,3,Light,18.74,40,LAOC,Urban,20000,No
+30156902,1,46,Some College,Female,10,Light,12.93,40,LAOC,Urban,15000,No
+30156902,2,45,Some College,Male,3,Light,8.73,20,LAOC,Urban,30000,No
+30157290,2,58,Bachelor Degree,Female,0,Light,7.47,15,LAOC,Urban,3900,No
+30157290,3,27,Some College,Male,1,Vigorous,23.49,40,LAOC,Urban,12000,No
+30158419,2,66,Some College,Male,0,Vigorous,4.98,15,LAOC,Suburban,7000,No
+30159146,3,35,Less than High School,Male,1,Vigorous,15.61,35,LAOC,Urban,15000,No
+30159617,1,60,Graduate or Professional Degree,Female,5,Light,3.17,10,IE,Suburban,10000,No
+30159617,2,63,Bachelor Degree,Male,10,Light,9.39,20,IE,Suburban,15000,No
+30161270,1,61,Graduate or Professional Degree,Female,5,Light,19.03,45,LAOC,Suburban,10000,No
+30161511,2,26,Bachelor Degree,Male,1,Vigorous,28.96,30,LAOC,Small Town/Rural,20000,No
+30162329,2,37,Graduate or Professional Degree,Male,0,Light,21.14,45,LAOC,Urban,20000,No
+30163951,1,44,Graduate or Professional Degree,Male,5,Light,3.07,15,LAOC,Urban,7000,Yes
+30166811,1,64,Some College,Female,2,Light,0.67,10,LAOC,Urban,11000,No
+30167043,1,73,Graduate or Professional Degree,Female,0,Light,3.47,10,IE,Suburban,7000,No
+30167615,2,23,Bachelor Degree,Female,0,Light,16.11,30,LAOC,Suburban,15000,No
+30169106,1,47,Graduate or Professional Degree,Male,5,Light,2.42,10,LAOC,Suburban,6000,No
+30169106,2,47,Bachelor Degree,Female,5,Light,8.67,25,LAOC,Suburban,8000,No
+30169263,2,47,High School Graduate,Male,0,None,7.47,20,LAOC,Urban,5000,No
+30169937,2,44,Bachelor Degree,Female,2,None,3.19,10,LAOC,Suburban,4000,No
+30170501,1,35,Graduate or Professional Degree,Female,5,Vigorous,12.42,20,LAOC,Urban,12000,No
+30170855,1,46,Some College,Female,5,Vigorous,11.36,35,LAOC,Urban,12000,No
+30170855,3,22,Some College,Male,5,Light,1.61,5,LAOC,Urban,1000,No
+30171124,1,40,Bachelor Degree,Female,15,Light,19.04,40,LAOC,Urban,17000,No
+30171334,2,37,Some College,Female,0,Vigorous,17.56,35,LAOC,Urban,12500,No
+30171357,1,47,High School Graduate,Male,2,Vigorous,5.85,20,IE,Suburban,30000,No
+30171357,2,22,High School Graduate,Male,0,Light,9.7,20,IE,Suburban,15000,No
+30171357,3,49,High School Graduate,Female,0,Light,9.02,20,IE,Suburban,10000,No
+30171357,4,20,High School Graduate,Female,2,Vigorous,15.14,20,IE,Suburban,5000,No
+30171514,1,66,Some College,Female,1,Light,3.85,15,IE,Small Town/Rural,2400,No
+30172112,1,27,Bachelor Degree,Female,15,Vigorous,7.12,20,LAOC,Urban,11000,No
+30172475,1,47,Bachelor Degree,Female,1,Light,15.2,25,LAOC,Urban,7000,No
+30174001,2,47,Bachelor Degree,Male,0,Light,10.58,30,LAOC,Urban,20000,No
+30175159,1,45,Bachelor Degree,Female,5,Vigorous,2.14,10,LAOC,Urban,12000,No
+30175753,2,58,Bachelor Degree,Female,2,Light,2.82,10,LAOC,Urban,7000,No
+30176102,2,44,Bachelor Degree,Male,1,Vigorous,17.94,25,LAOC,Urban,25000,No
+30177327,1,36,Graduate or Professional Degree,Female,10,Vigorous,6.6,15,LAOC,Suburban,15000,No
+30179949,1,50,Bachelor Degree,Female,1,Vigorous,7.95,30,LAOC,Suburban,16000,Yes
+30180763,1,36,Some College,Female,4,Light,14.64,35,IE,Suburban,15000,No
+30180763,2,45,High School Graduate,Male,0,Vigorous,5.93,15,IE,Suburban,18000,No
+30181084,1,62,Some College,Male,0,Light,5.85,30,LAOC,Urban,7000,No
+30181778,1,63,Some College,Male,2,Vigorous,27.35,40,IE,Urban,80000,No
+30181778,2,44,Some College,Female,0,Light,15.54,20,IE,Urban,7000,No
+30182641,1,52,Graduate or Professional Degree,Female,5,Light,3.18,10,LAOC,Urban,7000,No
+30182669,3,32,Bachelor Degree,Female,2,Light,3.21,20,LAOC,Urban,4500,No
+30183310,1,32,Some College,Male,4,Vigorous,176,180,IE,Suburban,15000,No
+30183310,4,28,Bachelor Degree,Male,1,Light,8.63,30,IE,Suburban,10000,No
+30184754,1,51,Graduate or Professional Degree,Male,0,Light,4.58,20,LAOC,Urban,15000,No
+30184942,2,57,Some College,Female,2,Light,36.3,60,IE,Small Town/Rural,30000,No
+30184951,1,40,Some College,Female,0,Light,17.1,30,LAOC,Urban,10000,No
+30185209,1,68,Bachelor Degree,Male,5,None,9.14,15,LAOC,Urban,6000,No
+30185209,2,72,Some College,Female,3,Light,2.48,15,LAOC,Urban,5000,No
+30185580,1,63,Bachelor Degree,Male,2,None,21.88,40,LAOC,Urban,23000,No
+30190294,1,48,Some College,Male,2,Light,8.53,40,LAOC,Urban,20000,No
+30190861,1,62,Less than High School,Female,4,Light,10.31,20,LAOC,Urban,5500,No
+30191280,1,25,Bachelor Degree,Female,20,Light,11.56,20,LAOC,Urban,4000,No
+30191418,1,63,High School Graduate,Female,0,Light,9.51,45,LAOC,Urban,18000,No
+30192173,1,52,Some College,Female,2,Light,5.37,20,LAOC,Urban,10000,No
+30194004,2,48,Bachelor Degree,Female,20,Vigorous,13.01,40,LAOC,Small Town/Rural,12000,No
+30194037,2,26,Bachelor Degree,Female,1,None,30.7,45,LAOC,Urban,12000,No
+30194205,1,60,Some College,Male,0,Light,28.11,70,IE,Suburban,10000,No
+30194843,1,65,Some College,Male,1,Light,17.5,20,LAOC,Urban,12000,No
+30194843,4,31,Some College,Female,5,Light,23.53,40,LAOC,Urban,10000,No
+30196370,2,50,High School Graduate,Male,5,Light,19.41,30,LAOC,Urban,30000,Yes
+30196999,2,48,Bachelor Degree,Male,0,Vigorous,38.04,45,LAOC,Urban,50000,No
+30198126,1,29,Graduate or Professional Degree,Male,2,Light,4.03,15,LAOC,Urban,5000,No
+30198521,1,35,Some College,Male,4,Light,9.45,20,LAOC,Suburban,20000,No
+30198521,2,31,High School Graduate,Female,4,Light,16.5,30,LAOC,Suburban,8000,No
+30199224,1,60,Some College,Female,2,Light,61.36,75,IE,Urban,30000,No
+30199713,2,62,Graduate or Professional Degree,Male,0,None,12.73,30,LAOC,Suburban,15000,No
+30200268,1,55,Bachelor Degree,Male,0,Light,3.17,10,LAOC,Urban,12000,No
+30201132,2,46,Some College,Male,0,Light,12.08,20,IE,Suburban,30000,No
+30201717,1,41,Graduate or Professional Degree,Male,1,None,41.76,70,LAOC,Urban,25000,No
+30203115,2,71,Graduate or Professional Degree,Male,5,None,29.54,60,LAOC,Suburban,20000,No
+30204269,2,54,Some College,Female,5,Light,7.89,40,LAOC,Urban,12000,No
+30204269,3,34,Graduate or Professional Degree,Female,3,Vigorous,14.11,70,LAOC,Urban,14000,No
+30204576,1,48,Some College,Male,0,Light,20.9,30,IE,Urban,28000,No
+30205740,1,54,Bachelor Degree,Female,2,Light,18.22,75,LAOC,Urban,15000,No
+30206012,1,64,Bachelor Degree,Female,4,Vigorous,16.41,30,IE,Urban,12000,No
+30206012,2,57,Some College,Female,10,Light,36.4,70,IE,Urban,16000,No
+30208269,2,30,High School Graduate,Female,4,Vigorous,13.43,20,LAOC,Urban,15000,No
+30212388,1,61,Bachelor Degree,Male,2,Light,43.78,120,LAOC,Urban,28000,No
+30212698,1,25,Bachelor Degree,Female,5,Light,2.52,15,LAOC,Urban,10000,No
+30215647,1,76,Some College,Female,3,Light,18.04,60,LAOC,Urban,10000,No
+30216995,1,38,Graduate or Professional Degree,Male,3,None,40.63,70,LAOC,Small Town/Rural,30000,No
+30217402,1,47,Graduate or Professional Degree,Male,3,Light,1.19,5,LAOC,Suburban,15000,No
+30220295,5,45,Bachelor Degree,Male,0,Light,4.19,15,LAOC,Urban,20000,No
+30222547,1,56,Graduate or Professional Degree,Female,0,Light,5.61,20,LAOC,Urban,16000,No
+30222657,2,65,Some College,Male,1,Vigorous,26.91,45,LAOC,Suburban,4000,No
+30224859,2,54,Some College,Male,2,Light,12.26,20,LAOC,Suburban,5200,No
+30225794,2,66,Graduate or Professional Degree,Male,0,Light,5.64,25,LAOC,Urban,9000,No
+30226309,1,60,Bachelor Degree,Male,2,Light,21.18,55,LAOC,Urban,12000,Yes
+30226416,2,42,High School Graduate,Female,25,Light,12.21,30,IE,Suburban,12800,No
+30226416,3,26,High School Graduate,Male,40,None,12.21,30,IE,Suburban,14900,No
+30226953,1,50,Bachelor Degree,Male,5,Light,20.86,25,LAOC,Urban,12000,No
+30229058,1,59,Graduate or Professional Degree,Male,2,Vigorous,2.93,15,LAOC,Urban,4000,No
+30229628,1,42,Some College,Male,2,Vigorous,71.8,130,IE,Urban,30000,No
+30229802,1,52,Some College,Male,0,Light,11.11,15,IE,Urban,35000,No
+30230014,1,35,Some College,Male,2,Light,30.26,60,LAOC,Suburban,14000,No
+30230014,2,33,Graduate or Professional Degree,Female,2,Light,34.88,105,LAOC,Suburban,17000,Yes
+30230253,1,69,Bachelor Degree,Male,2,Vigorous,2.85,10,LAOC,Suburban,8500,No
+30232318,1,36,Graduate or Professional Degree,Female,2,Vigorous,8.25,25,LAOC,Urban,8000,No
+30232318,2,42,Bachelor Degree,Male,3,Vigorous,30.88,55,LAOC,Urban,30000,No
+30234011,1,53,Graduate or Professional Degree,Male,4,Light,2.7,5,LAOC,Suburban,16000,No
+30234948,1,34,Graduate or Professional Degree,Male,3,Light,49.58,65,LAOC,Urban,28000,Yes
+30235422,2,37,Some College,Male,20,Light,9.73,20,LAOC,Urban,7000,No
+30237197,1,45,Bachelor Degree,Female,4,None,24.82,30,IE,Urban,20000,No
+30237839,1,42,Graduate or Professional Degree,Female,10,Light,0.62,5,LAOC,Suburban,20000,No
+30237839,2,45,Some College,Male,5,Light,43.67,50,LAOC,Suburban,12000,No
+30237884,1,49,Bachelor Degree,Female,0,Light,17.32,45,LAOC,Urban,10000,No
+30238527,1,65,Bachelor Degree,Female,5,Vigorous,10.02,40,LAOC,Urban,12000,No
+30239775,2,61,High School Graduate,Female,0,Light,9.53,20,IE,Urban,20000,No
+30240171,1,33,High School Graduate,Male,2,Light,25.14,40,IE,Urban,40000,No
+30241275,1,51,Some College,Female,0,Light,53.75,90,IE,Urban,20000,No
+30242163,1,31,Some College,Female,1,Light,25.57,35,LAOC,Small Town/Rural,20000,No
+30242163,2,32,Some College,Male,1,Light,47.1,60,LAOC,Small Town/Rural,28000,Yes
+30242672,3,23,High School Graduate,Male,1,Vigorous,14,30,LAOC,Urban,7000,No
+30243307,1,70,Some College,Male,1,Vigorous,9.48,15,LAOC,Suburban,5000,No
+30243825,1,29,Bachelor Degree,Male,4,Vigorous,19.93,20,LAOC,Urban,16000,No
+30244338,1,33,Some College,Female,3,Light,0.49,5,LAOC,Urban,5000,No
+30246587,1,31,Graduate or Professional Degree,Female,3,Light,7.34,15,IE,Urban,20000,Yes
+30246587,2,45,High School Graduate,Male,0,Light,77.29,90,IE,Urban,40000,No
+30248734,3,39,Bachelor Degree,Female,4,Vigorous,5.69,40,LAOC,Suburban,12000,No
+30251598,2,31,Graduate or Professional Degree,Female,10,Light,22.05,45,LAOC,Urban,15000,No
+30252361,1,35,Some College,Female,4,Vigorous,2.73,10,LAOC,Urban,2190,No
+30255499,1,57,Graduate or Professional Degree,Male,0,Light,26.61,45,LAOC,Urban,16000,Yes
+30255520,1,45,Some College,Female,0,Light,4.52,10,IE,Urban,11000,No
+30256218,1,59,Graduate or Professional Degree,Female,1,Light,4.59,20,LAOC,Urban,5000,No
+30256218,2,27,Bachelor Degree,Female,1,Light,14.48,30,LAOC,Urban,8000,No
+30256563,1,64,Bachelor Degree,Female,0,Light,17.02,50,LAOC,Suburban,9000,No
+30257126,1,46,Graduate or Professional Degree,Female,10,Vigorous,17.6,45,LAOC,Suburban,10000,No
+30257126,2,47,Some College,Female,1,Light,17.6,45,LAOC,Suburban,8000,No
+30258061,1,61,Bachelor Degree,Male,0,Light,6.59,15,IE,Small Town/Rural,12000,No
+30258669,1,57,Some College,Male,1,Light,6.14,15,LAOC,Urban,10000,No
+30261215,2,55,Bachelor Degree,Female,0,Light,21.68,30,LAOC,Urban,20000,No
+30261854,2,70,Bachelor Degree,Female,5,Vigorous,19.42,60,LAOC,Suburban,12000,No
+30262955,2,51,Some College,Male,0,Vigorous,20.16,45,LAOC,Urban,10000,No
+30265251,1,58,Some College,Female,0,Light,1.36,10,LAOC,Urban,15000,No
+30267431,1,54,Some College,Female,2,Light,13.57,35,LAOC,Urban,8000,No
+30267983,1,34,Some College,Male,4,Vigorous,49.53,50,IE,Urban,30000,No
+30268037,2,59,Some College,Male,3,Light,35.65,45,IE,Urban,14000,No
+30268343,1,39,Some College,Male,5,Light,21.63,35,IE,Suburban,12400,No
+30270811,1,46,Graduate or Professional Degree,Female,1,Vigorous,15.75,30,LAOC,Urban,18000,No
+30270811,2,47,Graduate or Professional Degree,Male,2,Vigorous,30.81,40,LAOC,Urban,18000,No
+30272619,1,47,Less than High School,Female,0,Light,5.19,25,LAOC,Urban,10000,No
+30272985,2,37,High School Graduate,Female,1,Vigorous,19.41,20,LAOC,Urban,12000,No
+30274604,1,38,Graduate or Professional Degree,Male,0,None,30.16,35,LAOC,Urban,11000,No
+30274604,2,35,Bachelor Degree,Female,15,None,7.46,40,LAOC,Urban,17000,No
+30275012,1,27,Graduate or Professional Degree,Male,2,Light,0.93,5,LAOC,Urban,5000,No
+30275012,2,28,Graduate or Professional Degree,Female,3,Light,1,5,LAOC,Urban,5000,No
+30275648,1,65,Graduate or Professional Degree,Male,2,Light,6.42,15,LAOC,Suburban,7500,No
+30277365,3,49,Bachelor Degree,Male,1,Light,13.85,35,LAOC,Urban,10000,No
+30277791,1,63,Bachelor Degree,Male,10,Light,10.39,30,LAOC,Urban,15000,No
+30278298,1,53,Graduate or Professional Degree,Female,15,Vigorous,55.82,60,LAOC,Suburban,9500,No
+30278900,2,55,Some College,Male,0,Vigorous,3.91,15,IE,Urban,7000,No
+30279604,2,61,High School Graduate,Female,4,Light,19.6,30,LAOC,Urban,12000,Yes
+30281855,1,25,Bachelor Degree,Male,10,Light,24.41,60,IE,Urban,10000,No
+30281855,2,40,Some College,Female,0,Light,23.33,50,IE,Urban,15000,No
+30282309,1,41,Bachelor Degree,Female,0,Vigorous,1.05,5,LAOC,Urban,12000,No
+30282309,2,62,Bachelor Degree,Male,0,Light,17.76,60,LAOC,Urban,15000,No
+30282309,3,59,Graduate or Professional Degree,Female,3,Light,3.24,10,LAOC,Urban,12000,No
+30282309,5,27,Bachelor Degree,Male,0,None,13.84,45,LAOC,Urban,12000,No
+30285228,1,71,Some College,Male,0,Light,28.8,35,IE,Urban,25000,No
+30285565,2,52,Graduate or Professional Degree,Female,4,Vigorous,4.63,20,LAOC,Urban,3500,No
+30286093,1,45,Graduate or Professional Degree,Male,5,Vigorous,33.22,70,LAOC,Urban,20000,No
+30286093,2,40,Bachelor Degree,Female,5,Light,3.24,5,LAOC,Urban,8000,No
+30286136,1,50,Bachelor Degree,Male,1,Vigorous,38.75,45,LAOC,Urban,25000,No
+30286136,2,52,Graduate or Professional Degree,Female,10,Vigorous,19.11,25,LAOC,Urban,14000,No
+30287616,1,40,Bachelor Degree,Male,2,Light,11.65,20,LAOC,Urban,12000,No
+30288546,2,52,Bachelor Degree,Male,0,Light,5.43,15,LAOC,Suburban,5000,No
+30291170,2,58,Some College,Male,0,Vigorous,18.34,20,IE,Urban,10000,No
+30292448,2,57,Graduate or Professional Degree,Female,4,Light,18.23,45,LAOC,Suburban,15000,No
+30292926,1,40,Graduate or Professional Degree,Male,4,Vigorous,16.32,25,LAOC,Urban,6000,No
+30293066,1,65,Graduate or Professional Degree,Male,0,Light,13.11,15,IE,Small Town/Rural,17000,No
+30293066,2,63,Graduate or Professional Degree,Female,5,Light,13.11,15,IE,Small Town/Rural,5000,No
+30293418,2,48,Bachelor Degree,Male,0,Light,6.73,25,LAOC,Urban,3500,No
+30294609,2,32,Bachelor Degree,Male,15,Vigorous,32.32,55,LAOC,Suburban,20000,No
+30294699,1,55,Some College,Male,1,None,58.72,105,LAOC,Suburban,3000,No
+30296970,1,40,Graduate or Professional Degree,Female,2,Vigorous,19.59,35,LAOC,Urban,12000,No
+30296970,2,40,Graduate or Professional Degree,Female,1,None,6.89,30,LAOC,Urban,7000,No
+30297228,3,25,Some College,Male,2,Vigorous,2,10,LAOC,Suburban,8000,No
+30298743,1,53,Graduate or Professional Degree,Male,5,Vigorous,30.65,40,LAOC,Urban,30000,Yes
+30298743,2,50,Graduate or Professional Degree,Female,0,Vigorous,30.61,40,LAOC,Urban,1250,No
+30300630,1,38,Some College,Female,5,Light,5.15,20,LAOC,Urban,12000,No
+30303702,1,32,Bachelor Degree,Male,2,Vigorous,6.71,20,LAOC,Suburban,14000,No
+30303702,2,30,Graduate or Professional Degree,Male,5,Vigorous,45.15,60,LAOC,Suburban,19000,No
+30304254,1,47,Graduate or Professional Degree,Female,0,Light,7.06,15,LAOC,Urban,12000,Yes
+30304254,2,49,Bachelor Degree,Male,2,Vigorous,7.7,20,LAOC,Urban,10000,No
+30305901,2,67,Some College,Male,0,Vigorous,9.36,35,LAOC,Urban,14000,No
+30305958,1,36,Bachelor Degree,Male,3,Vigorous,18.76,30,LAOC,Urban,25000,No
+30306054,1,36,Bachelor Degree,Male,2,Light,12.22,20,LAOC,Urban,16500,No
+30306187,2,46,Some College,Male,10,Light,7.91,30,LAOC,Urban,18000,Yes
+30306576,1,60,Some College,Female,3,Light,19.68,60,LAOC,Urban,12222,No
+30308030,1,46,Graduate or Professional Degree,Male,20,Light,36.35,60,LAOC,Urban,45000,Yes
+30308030,2,44,Bachelor Degree,Female,5,Vigorous,14.65,30,LAOC,Urban,15000,No
+30308162,2,59,Some College,Female,0,None,1.15,10,LAOC,Urban,3000,No
+30309010,2,33,Bachelor Degree,Male,5,Vigorous,19.9,90,LAOC,Urban,18000,No
+30309710,1,29,Bachelor Degree,Female,4,Light,2.09,10,LAOC,Urban,1000,No
+30310458,1,45,Some College,Female,5,Light,22.73,40,IE,Urban,20000,No
+30310458,2,54,Some College,Male,0,Light,16.18,30,IE,Urban,20000,No
+30310655,1,63,Bachelor Degree,Male,0,Light,2.9,5,IE,Urban,12000,No
+30310655,2,65,Bachelor Degree,Female,2,Light,2.9,5,IE,Urban,9000,No
+30310895,1,36,Some College,Female,10,Vigorous,3.36,15,LAOC,Urban,15000,No
+30311649,2,59,Some College,Female,0,Light,11.06,20,LAOC,Suburban,19000,No
+30311731,1,56,High School Graduate,Male,0,Light,2.56,10,LAOC,Urban,10000,No
+30311900,2,68,Some College,Female,0,Vigorous,0.94,10,LAOC,Suburban,2100,No
+30312271,1,65,Some College,Female,0,Light,11.47,25,LAOC,Urban,12500,No
+30313898,1,61,Some College,Female,3,Vigorous,15.73,25,IE,Urban,15000,No
+30314795,1,45,Graduate or Professional Degree,Female,10,Light,20.14,50,LAOC,Urban,18000,No
+30315821,1,39,Some College,Female,0,Light,0.26,5,LAOC,Suburban,10000,No
+30315974,1,55,Bachelor Degree,Male,3,Vigorous,25.51,50,LAOC,Urban,15000,No
+30316130,4,33,Bachelor Degree,Female,1,Light,5.96,20,LAOC,Urban,11000,No
+30317439,1,42,Some College,Male,2,Light,9.58,30,IE,Urban,36000,No
+30318092,1,60,Some College,Male,0,Light,6.97,15,LAOC,Urban,6000,Yes
+30318092,2,57,Some College,Female,1,None,12.97,20,LAOC,Urban,11000,Yes
+30318475,1,37,Bachelor Degree,Female,0,Light,28.3,70,LAOC,Urban,20000,Yes
+30318552,3,20,Some College,Female,3,Vigorous,4.89,15,LAOC,Suburban,14000,No
+30318841,1,34,Bachelor Degree,Male,15,Light,22.07,45,LAOC,Urban,14000,No
+30319531,2,63,Some College,Female,0,Light,11.45,20,LAOC,Urban,10000,No
+30319976,1,37,Some College,Female,10,Vigorous,2.55,10,IE,Suburban,8000,No
+30319976,2,42,Some College,Male,2,Vigorous,25.08,60,IE,Suburban,20000,No
+30320175,1,52,Bachelor Degree,Male,1,None,13.31,25,LAOC,Suburban,15000,No
+30320175,2,44,Graduate or Professional Degree,Male,10,Vigorous,2.94,10,LAOC,Suburban,10000,No
+30321247,1,46,Bachelor Degree,Male,0,None,17.51,30,LAOC,Urban,15000,No
+30322351,1,48,Some College,Female,0,Light,1.64,5,IE,Urban,11000,No
+30322586,1,26,Bachelor Degree,Male,0,Vigorous,3.32,10,LAOC,Urban,21000,No
+30322814,1,47,Bachelor Degree,Female,1,Light,28.18,45,LAOC,Urban,17000,No
+30322983,1,40,Graduate or Professional Degree,Male,10,Vigorous,25.92,30,LAOC,Suburban,10000,No
+30324075,1,40,Graduate or Professional Degree,Female,10,Light,15.26,30,LAOC,Urban,10000,No
+30324075,2,42,Graduate or Professional Degree,Male,10,Light,14.28,25,LAOC,Urban,10500,No
+30324205,1,60,Some College,Male,1,Vigorous,18.53,25,LAOC,Urban,55000,No
+30324855,1,70,Some College,Male,0,Light,11.84,35,LAOC,Urban,10000,No
+30327660,1,28,Bachelor Degree,Male,3,Light,8.97,30,LAOC,Urban,12000,No
+30327660,2,28,Bachelor Degree,Female,1,Light,1.58,10,LAOC,Urban,7000,No
+30327867,1,59,Some College,Male,0,Light,19.82,25,LAOC,Suburban,11000,No
+30328369,1,53,Bachelor Degree,Female,20,Light,12.98,35,LAOC,Urban,20000,Yes
+30328369,2,54,Some College,Male,0,None,43.49,75,LAOC,Urban,25000,Yes
+30333225,1,72,Graduate or Professional Degree,Male,2,Light,6.79,20,LAOC,Urban,13000,No
+30335255,1,66,Graduate or Professional Degree,Male,0,Light,21.02,35,IE,Small Town/Rural,40000,No
+30335255,2,64,Bachelor Degree,Female,0,None,21.02,35,IE,Small Town/Rural,10000,No
+30335530,1,38,Graduate or Professional Degree,Female,5,None,15.24,50,LAOC,Urban,11000,No
+30335530,2,40,Bachelor Degree,Male,10,Light,5.16,15,LAOC,Urban,12000,No
+30336341,1,36,Bachelor Degree,Male,2,Vigorous,5.67,15,LAOC,Urban,13000,No
+30336571,2,56,High School Graduate,Female,5,Light,7.17,30,LAOC,Urban,8000,No
+30338221,1,67,Graduate or Professional Degree,Male,0,Light,20.81,40,LAOC,Urban,20000,No
+30338805,1,58,Bachelor Degree,Male,1,Vigorous,5.05,10,LAOC,Suburban,26000,No
+30339321,2,24,Bachelor Degree,Male,2,Vigorous,16.48,50,LAOC,Urban,12000,No
+30339691,1,44,Graduate or Professional Degree,Male,10,Vigorous,20.73,40,LAOC,Suburban,16000,No
+30340211,1,54,Graduate or Professional Degree,Male,1,Light,7.93,20,LAOC,Urban,8000,No
+30341588,1,62,Some College,Female,2,Vigorous,2.67,10,LAOC,Urban,25000,No
+30342569,1,21,Some College,Male,10,Vigorous,34.64,30,LAOC,Urban,20000,No
+30342569,2,20,Some College,Female,10,Vigorous,1.94,15,LAOC,Urban,15000,No
+30342724,1,53,Some College,Female,1,Light,34.34,60,IE,Urban,5000,No
+30342804,1,28,Some College,Female,5,None,6.55,20,LAOC,Urban,8000,No
+30342804,2,32,Some College,Male,1,Light,2.02,10,LAOC,Urban,4500,No
+30343028,1,56,Bachelor Degree,Male,2,Vigorous,10.33,25,LAOC,Urban,8000,No
+30343028,2,53,Graduate or Professional Degree,Female,0,None,13.07,25,LAOC,Urban,8000,No
+30343482,1,59,High School Graduate,Male,0,Vigorous,8.84,20,IE,Suburban,54720,No
+30346956,3,27,Bachelor Degree,Male,3,Vigorous,20.42,30,LAOC,Urban,15000,No
+30346956,5,21,High School Graduate,Male,10,Vigorous,5.21,25,LAOC,Urban,15000,No
+30346956,7,47,Less than High School,Female,0,None,3.5,15,LAOC,Urban,60000,No
+30346956,8,18,High School Graduate,Female,0,None,16.28,65,LAOC,Urban,5000,No
+30347160,1,30,Bachelor Degree,Male,0,Light,10.69,20,LAOC,Urban,10500,Yes
+30347175,1,49,Bachelor Degree,Male,0,Light,18.42,50,LAOC,Urban,9500,No
+30348857,1,61,High School Graduate,Female,0,Light,1.58,5,LAOC,Urban,2500,No
+30348885,1,44,Graduate or Professional Degree,Male,2,Vigorous,2.94,10,LAOC,Urban,7000,Yes
+30349664,1,55,High School Graduate,Male,0,Light,5.1,15,LAOC,Urban,25000,No
+30349664,4,20,High School Graduate,Male,0,Light,6.57,15,LAOC,Urban,10000,No
+30349961,1,51,High School Graduate,Male,0,Light,7.13,20,IE,Urban,4656,No
+30350257,1,52,Bachelor Degree,Female,0,Light,1.56,10,LAOC,Urban,4000,No
+30351431,3,25,Some College,Male,1,None,2.65,25,LAOC,Small Town/Rural,32000,No
+30351557,1,76,Graduate or Professional Degree,Female,0,Light,4.65,20,LAOC,Urban,3000,No
+30353386,1,37,Graduate or Professional Degree,Female,2,Light,10.96,30,LAOC,Urban,20000,No
+30355587,2,61,Some College,Male,0,Light,2.22,10,LAOC,Urban,11000,No
+30355587,3,29,Bachelor Degree,Female,5,Light,2.22,10,LAOC,Urban,10000,No
+30356467,1,55,Graduate or Professional Degree,Male,0,Vigorous,3.02,15,LAOC,Urban,15000,No
+30359009,1,37,Bachelor Degree,Female,15,Vigorous,22.53,60,LAOC,Urban,8500,No
+30359251,1,52,Bachelor Degree,Male,1,Vigorous,18.48,35,LAOC,Urban,12000,No
+30359887,1,40,Some College,Male,15,Vigorous,81.73,75,LAOC,Urban,45000,No
+30360626,1,55,High School Graduate,Male,5,Vigorous,4.99,20,LAOC,Urban,4400,No
+30360626,3,23,Some College,Female,5,Light,1.21,10,LAOC,Urban,5000,Yes
+30360626,4,26,Some College,Female,5,Light,10.46,30,LAOC,Urban,3000,Yes
+30360626,5,26,Graduate or Professional Degree,Male,1,Light,14.52,40,LAOC,Urban,3000,No
+30362598,1,69,High School Graduate,Male,3,Light,4.57,10,LAOC,Urban,9000,No
+30362951,2,35,High School Graduate,Female,2,Light,31.58,65,IE,Suburban,10000,No
+30364196,1,32,Bachelor Degree,Female,5,Light,1.55,5,LAOC,Urban,5700,No
+30366106,1,55,Some College,Male,0,Vigorous,6.02,15,IE,Urban,2000,No
+30368604,2,61,Bachelor Degree,Female,2,Vigorous,1.6,10,LAOC,Suburban,4500,No
+30368855,2,52,Less than High School,Female,0,Light,3.72,15,IE,Urban,20000,No
+30372235,1,38,Some College,Male,0,Light,58.21,65,IE,Urban,26000,No
+30372472,1,47,Graduate or Professional Degree,Female,10,Light,23.04,40,LAOC,Urban,14000,Yes
+30372472,2,52,Graduate or Professional Degree,Male,10,Light,2.39,10,LAOC,Urban,10000,Yes
+30372794,2,40,Graduate or Professional Degree,Female,3,None,39.37,55,LAOC,Urban,18000,No
+30374859,1,50,Bachelor Degree,Female,4,Light,7.68,20,IE,Small Town/Rural,19000,No
+30376057,1,55,Some College,Male,0,Light,60.21,75,IE,Urban,30000,No
+30376057,2,50,High School Graduate,Female,2,Light,10.31,15,IE,Urban,10000,No
+30376491,2,63,Bachelor Degree,Male,1,Light,12.33,30,LAOC,Urban,12000,No
+30378145,1,63,Bachelor Degree,Male,1,Light,9.41,30,LAOC,Urban,10000,Yes
+30379434,1,33,Graduate or Professional Degree,Female,2,Vigorous,29.37,60,LAOC,Urban,17000,No
+30379763,1,38,Graduate or Professional Degree,Male,10,Light,1.92,5,LAOC,Suburban,15600,Yes
+30380108,1,34,Graduate or Professional Degree,Male,1,Vigorous,13.05,30,LAOC,Urban,13000,No
+30380987,1,44,Bachelor Degree,Male,5,Light,5.99,15,LAOC,Suburban,14150,No
+30381982,2,54,High School Graduate,Male,3,Light,11.42,20,LAOC,Urban,3600,No
+30382570,1,67,Graduate or Professional Degree,Female,3,Light,1.22,15,LAOC,Urban,5000,No
+30387118,1,40,Graduate or Professional Degree,Female,5,Vigorous,0.41,5,LAOC,Suburban,8000,No
+30387503,1,57,Some College,Male,2,Light,22.7,45,IE,Suburban,121000,No
+30387581,1,36,High School Graduate,Female,4,Vigorous,5.3,50,LAOC,Suburban,11000,No
+30388448,1,54,Bachelor Degree,Male,2,Light,9.37,20,LAOC,Urban,12000,No
+30392781,2,56,Some College,Male,0,Vigorous,1.21,15,LAOC,Urban,7000,No
+30393847,1,46,Bachelor Degree,Male,10,Vigorous,26.78,90,LAOC,Urban,20000,No
+30393847,2,32,Bachelor Degree,Male,2,Light,23.8,90,LAOC,Urban,14000,No
+30393847,3,38,Bachelor Degree,Male,5,None,26.78,60,LAOC,Urban,14000,No
+30394765,2,40,Some College,Male,1,Vigorous,32.58,45,LAOC,Urban,6000,No
+30394820,2,46,Graduate or Professional Degree,Female,3,Light,2.49,25,LAOC,Suburban,5000,Yes
+30394820,3,40,Bachelor Degree,Female,5,Light,5.76,30,LAOC,Suburban,3000,No
+30394991,1,52,Some College,Male,0,Light,9.17,15,IE,Small Town/Rural,14000,No
+30394991,2,33,High School Graduate,Female,2,Light,9.17,30,IE,Small Town/Rural,10000,No
+30395356,1,41,Graduate or Professional Degree,Female,3,Vigorous,7.25,30,LAOC,Urban,10000,No
+30395673,1,62,Graduate or Professional Degree,Male,5,Light,8.93,40,LAOC,Urban,10000,No
+30396354,1,35,Less than High School,Male,0,Light,11.52,35,LAOC,Urban,5000,No
+30399378,1,43,Graduate or Professional Degree,Female,0,Vigorous,2.47,25,LAOC,Urban,12000,No
+30399501,1,46,Graduate or Professional Degree,Male,1,Light,33.56,50,LAOC,Urban,15000,No
+30399517,1,44,Bachelor Degree,Male,2,Light,9.62,45,LAOC,Urban,2300,No
+30399517,2,44,Bachelor Degree,Female,5,Light,3.87,20,LAOC,Urban,5000,No
+30399839,1,42,Graduate or Professional Degree,Male,0,Light,39.17,35,LAOC,Urban,27000,No
+30399839,2,47,Some College,Female,0,None,16.66,50,LAOC,Urban,10000,No
+30400336,1,62,Bachelor Degree,Male,5,Light,6.9,40,LAOC,Urban,4000,No
+30400534,1,35,Graduate or Professional Degree,Female,15,Vigorous,13.07,45,LAOC,Urban,13000,No
+30401555,1,70,Graduate or Professional Degree,Male,5,Vigorous,5.25,10,LAOC,Urban,9500,No
+30402343,1,38,Bachelor Degree,Male,5,Light,36.98,35,LAOC,Urban,21000,No
+30402828,1,44,Bachelor Degree,Male,10,Light,10.1,30,LAOC,Urban,13000,No
+30403393,1,37,Graduate or Professional Degree,Male,1,Vigorous,22.11,60,LAOC,Urban,15000,Yes
+30403957,1,46,Bachelor Degree,Female,10,Light,7.62,15,LAOC,Urban,4500,No
+30405366,1,59,High School Graduate,Male,1,Vigorous,29.77,55,LAOC,Suburban,8000,No
+30405437,1,46,Graduate or Professional Degree,Male,3,Vigorous,41.41,50,LAOC,Suburban,17000,Yes
+30405437,2,50,Graduate or Professional Degree,Female,0,Light,10.6,15,LAOC,Suburban,10000,No
+30405623,1,29,Graduate or Professional Degree,Female,10,Light,4.97,25,LAOC,Urban,12000,No
+30405623,2,33,Graduate or Professional Degree,Male,0,Light,6.65,30,LAOC,Urban,12000,No
+30406367,2,48,Graduate or Professional Degree,Male,1,Vigorous,5.47,15,LAOC,Urban,12000,No
+30406496,1,53,Bachelor Degree,Female,0,None,20.34,50,IE,Suburban,20000,No
+30407295,4,41,Less than High School,Male,0,Light,1.89,10,LAOC,Urban,130000,No
+30407779,4,34,Some College,Female,10,None,55.62,120,IE,Suburban,10000,No
+30408299,1,27,Bachelor Degree,Male,0,Vigorous,41.09,105,IE,Urban,40000,No
+30409610,1,43,Graduate or Professional Degree,Female,5,Light,12.11,30,LAOC,Urban,9000,No
+30409610,2,42,Bachelor Degree,Male,5,Vigorous,15.39,45,LAOC,Urban,10000,No
+30410953,1,57,Some College,Female,20,Light,6.59,15,LAOC,Urban,10000,No
+30410953,2,24,Some College,Male,5,Vigorous,3.57,10,LAOC,Urban,10000,No
+30410953,3,26,Bachelor Degree,Female,0,Vigorous,8.81,15,LAOC,Urban,10000,No
+30410996,1,52,Some College,Male,0,Light,2.38,20,LAOC,Urban,10000,No
+30411198,1,43,Bachelor Degree,Male,10,Light,2.32,10,IE,Suburban,7000,No
+30414293,2,51,High School Graduate,Female,4,Light,11.4,30,LAOC,Urban,9000,No
+30416118,1,70,Graduate or Professional Degree,Female,2,Light,27.34,50,LAOC,Suburban,12000,Yes
+30418422,1,37,Bachelor Degree,Male,2,Light,7.63,25,LAOC,Urban,12000,No
+30418422,2,35,Graduate or Professional Degree,Female,5,Light,30.66,85,LAOC,Urban,14000,No
+30423594,1,83,Graduate or Professional Degree,Male,4,Light,12.99,40,LAOC,Suburban,10000,No
+30424897,2,48,Some College,Male,4,Vigorous,16.31,20,LAOC,Urban,68000,No
+30426084,1,31,Bachelor Degree,Male,1,Vigorous,16.23,35,IE,Urban,10000,No
+30428730,1,34,Bachelor Degree,Female,0,Light,4.7,30,LAOC,Urban,10000,No
+30429385,1,56,Bachelor Degree,Female,1,Light,16.99,30,LAOC,Urban,50000,No
+30429542,2,27,Some College,Male,0,Vigorous,4.96,15,IE,Urban,12500,No
+30430316,2,41,Bachelor Degree,Male,2,Vigorous,5.15,15,LAOC,Urban,18000,No
+30432308,1,62,Graduate or Professional Degree,Male,10,Light,5.51,20,LAOC,Urban,20000,No
+30432308,2,61,Bachelor Degree,Male,10,Light,5.51,45,LAOC,Urban,15000,No
+30434115,2,52,Graduate or Professional Degree,Male,3,Vigorous,11.99,30,LAOC,Urban,10000,Yes
+30434884,1,49,Graduate or Professional Degree,Female,5,Light,5.86,15,LAOC,Suburban,8000,No
+30435154,1,55,Bachelor Degree,Male,5,Light,3.65,10,LAOC,Urban,10000,No
+30435154,3,18,Some College,Male,1,None,7.17,15,LAOC,Urban,10000,No
+30435188,1,58,Some College,Female,2,Light,20.97,45,LAOC,Suburban,40000,No
+30435345,2,29,Graduate or Professional Degree,Female,5,Vigorous,10.19,40,LAOC,Urban,4500,No
+30436298,1,46,Bachelor Degree,Male,5,Vigorous,2.24,10,LAOC,Urban,12000,No
+30436416,1,25,Bachelor Degree,Male,2,Vigorous,8.4,30,LAOC,Urban,25000,No
+30436416,2,27,Bachelor Degree,Male,5,Vigorous,3.16,20,LAOC,Urban,15000,No
+30436653,1,45,Graduate or Professional Degree,Female,1,Light,11.96,30,LAOC,Urban,12000,No
+30436774,1,53,Graduate or Professional Degree,Male,0,Vigorous,5.97,20,LAOC,Urban,6000,Yes
+30436774,2,55,Graduate or Professional Degree,Male,5,Vigorous,6.82,15,LAOC,Urban,6000,Yes
+30437039,2,68,Graduate or Professional Degree,Male,4,Light,8.2,25,LAOC,Urban,10000,No
+30439414,1,25,Bachelor Degree,Female,3,Vigorous,11.6,20,LAOC,Urban,15000,No
+30439414,2,25,Bachelor Degree,Female,4,Light,20.52,45,LAOC,Urban,9000,No
+30439554,2,50,Bachelor Degree,Male,10,Vigorous,1.54,30,LAOC,Urban,12000,No
+30439928,1,63,Graduate or Professional Degree,Female,3,Vigorous,3.92,20,LAOC,Urban,8000,No
+30441116,1,58,High School Graduate,Male,0,Light,1.15,20,LAOC,Urban,7000,No
+30441116,2,59,High School Graduate,Female,2,Light,29.82,150,LAOC,Urban,10000,No
+30441674,2,37,Bachelor Degree,Female,1,None,2.67,20,LAOC,Urban,2000,No
+30442735,1,49,Bachelor Degree,Male,10,Light,11.01,35,LAOC,Suburban,11000,No
+30442735,2,51,Bachelor Degree,Female,0,Light,1.25,5,LAOC,Suburban,2500,No
+30443317,1,32,Graduate or Professional Degree,Female,5,Vigorous,14.22,60,LAOC,Urban,16500,No
+30444231,1,42,Graduate or Professional Degree,Male,10,Light,3.68,15,LAOC,Suburban,13000,Yes
+30444231,2,43,Graduate or Professional Degree,Female,5,Vigorous,11.2,35,LAOC,Suburban,8000,No
+30444583,2,57,Some College,Male,5,Light,3.45,10,LAOC,Urban,30000,No
+30445449,1,33,Graduate or Professional Degree,Male,0,Light,25.17,60,LAOC,Suburban,25000,No
+30447097,1,65,Graduate or Professional Degree,Female,10,Light,13.74,25,LAOC,Urban,15000,No
+30447097,2,61,Graduate or Professional Degree,Male,4,Light,19.34,65,LAOC,Urban,28000,No
+30447291,1,51,Graduate or Professional Degree,Female,3,Vigorous,7.27,25,LAOC,Urban,12500,No
+30447355,1,57,Some College,Male,1,Light,3.79,10,LAOC,Small Town/Rural,12000,No
+30447776,1,50,Bachelor Degree,Female,1,Light,7.36,10,LAOC,Urban,4200,No
+30447776,2,50,Bachelor Degree,Male,1,Vigorous,20.28,20,LAOC,Urban,12600,No
+30448706,1,45,Bachelor Degree,Male,5,Light,26.08,30,LAOC,Suburban,12500,No
+30450240,2,39,Graduate or Professional Degree,Male,2,Light,19.16,75,LAOC,Urban,38400,Yes
+30452930,3,43,Some College,Male,15,Light,14.95,30,LAOC,Suburban,18000,No
+30453960,2,27,Some College,Male,2,Light,28.02,45,IE,Suburban,30000,No
+30453987,1,50,Some College,Male,5,Vigorous,3.82,10,LAOC,Urban,8000,No
+30453987,2,49,Graduate or Professional Degree,Female,3,Vigorous,14.52,25,LAOC,Urban,11000,No
+30455321,1,35,Bachelor Degree,Male,5,Light,11.7,30,LAOC,Suburban,30000,Yes
+30456973,1,55,Graduate or Professional Degree,Female,5,Light,16.5,40,LAOC,Suburban,8000,No
+30457081,1,54,Graduate or Professional Degree,Male,1,Light,17.72,40,LAOC,Suburban,15000,No
+30458926,3,21,High School Graduate,Female,0,None,33.83,40,LAOC,Urban,20000,No
+30459082,1,59,Bachelor Degree,Female,0,Light,9.19,20,LAOC,Urban,5000,No
+30459156,1,63,Bachelor Degree,Male,2,Vigorous,5.76,20,LAOC,Suburban,10000,No
+30459156,2,56,High School Graduate,Female,0,Vigorous,5.76,20,LAOC,Suburban,12000,No
+30460178,1,27,Bachelor Degree,Male,0,Light,25.39,30,IE,Urban,16440,No
+30460178,2,25,Some College,Male,0,Vigorous,25.39,30,IE,Urban,16000,No
+30460178,3,27,Some College,Male,2,None,25.39,30,IE,Urban,18000,No
+30460517,1,45,Graduate or Professional Degree,Female,3,Light,4.18,5,IE,Suburban,13500,No
+30460517,2,44,Bachelor Degree,Male,3,Vigorous,7.47,15,IE,Suburban,14000,No
+30461161,1,62,Some College,Male,0,Vigorous,30.71,90,LAOC,Urban,15000,No
+30461387,2,42,Less than High School,Male,0,Light,7.94,15,LAOC,Urban,20000,No
+30466169,1,66,Some College,Male,0,Light,47.82,60,IE,Small Town/Rural,25000,No
+30467424,1,27,Bachelor Degree,Male,2,Light,22.04,30,LAOC,Urban,12000,No
+30469491,1,61,Some College,Female,1,Vigorous,15.33,35,LAOC,Suburban,16000,No
+30469669,2,53,Some College,Male,0,Light,43.15,60,LAOC,Suburban,18000,No
+30471062,1,67,Some College,Female,0,Vigorous,5.99,20,LAOC,Urban,1500,No
+30472199,1,41,Graduate or Professional Degree,Male,1,Vigorous,3.12,10,LAOC,Urban,30000,No
+30472199,2,33,Some College,Female,5,Light,43.21,90,LAOC,Urban,12600,No
+30472659,1,54,Bachelor Degree,Male,10,Light,5.3,20,LAOC,Urban,20000,No
+30473213,3,28,Bachelor Degree,Male,15,Vigorous,6.6,20,LAOC,Urban,20000,No
+30473424,2,61,Graduate or Professional Degree,Male,0,Vigorous,35.62,60,LAOC,Suburban,50000,No
+30473424,3,28,Bachelor Degree,Male,5,Vigorous,32,60,LAOC,Suburban,30000,No
+30473917,1,60,Graduate or Professional Degree,Female,2,Vigorous,7.49,25,IE,Suburban,6000,No
+30473917,2,60,High School Graduate,Male,2,Vigorous,6.82,25,IE,Suburban,8000,No
+30474211,1,53,High School Graduate,Male,0,Light,19.58,20,IE,Small Town/Rural,10000,No
+30474211,2,58,Some College,Female,0,Light,0.11,5,IE,Small Town/Rural,3000,No
+30475974,1,54,Some College,Male,5,None,6.01,15,IE,Urban,15000,No
+30476872,1,54,Bachelor Degree,Male,3,Vigorous,25.28,50,LAOC,Urban,20000,No
+30476872,2,50,Bachelor Degree,Female,0,Light,1.72,5,LAOC,Urban,7000,No
+30477523,3,24,Bachelor Degree,Male,4,Vigorous,3.81,10,LAOC,Suburban,5000,No
+30478230,1,60,Graduate or Professional Degree,Female,0,Light,8.32,20,LAOC,Urban,13000,No
+30478952,1,64,Graduate or Professional Degree,Female,15,Vigorous,14.72,35,LAOC,Suburban,12000,Yes
+30478952,2,65,Graduate or Professional Degree,Male,3,Vigorous,28.97,40,LAOC,Suburban,15000,No
+30480280,1,34,Some College,Female,5,None,19.41,60,LAOC,Urban,12000,No
+30480406,2,31,Some College,Female,5,Vigorous,1.35,10,LAOC,Urban,6000,No
+30480484,2,48,Graduate or Professional Degree,Male,0,Vigorous,5.12,15,LAOC,Suburban,12000,No
+30480573,1,60,Graduate or Professional Degree,Male,2,Light,7.18,20,LAOC,Suburban,7000,No
+30481367,2,53,Some College,Male,0,Light,15.33,35,LAOC,Urban,10000,No
+30481403,1,51,Bachelor Degree,Male,3,Vigorous,8.99,25,LAOC,Urban,15000,No
+30481403,3,25,Bachelor Degree,Female,10,Light,8.99,25,LAOC,Urban,10000,No
+30482797,1,55,Some College,Female,4,Vigorous,10.04,35,LAOC,Urban,10000,No
+30482797,2,60,Some College,Male,0,Light,10.71,30,LAOC,Urban,25000,No
+30482993,1,25,Bachelor Degree,Female,3,Light,19.41,45,LAOC,Urban,20000,No
+30483974,3,25,Graduate or Professional Degree,Female,0,Light,48.86,150,IE,Urban,21220,No
+30486172,1,51,Some College,Female,5,Light,28.67,60,LAOC,Suburban,15000,Yes
+30486399,1,45,Graduate or Professional Degree,Male,2,Light,4.41,15,LAOC,Urban,6000,Yes
+30486414,1,47,Some College,Female,0,Light,5.42,20,IE,Suburban,12000,No
+30486572,1,33,Bachelor Degree,Female,2,Light,5.69,15,LAOC,Urban,25000,No
+30487263,1,35,Bachelor Degree,Female,5,Light,11.1,20,LAOC,Urban,12000,No
+30487629,1,31,Graduate or Professional Degree,Female,4,Vigorous,2.7,5,IE,Urban,15000,No
+30487629,2,33,High School Graduate,Male,0,Vigorous,2.7,5,IE,Urban,12000,No
+30487686,3,42,Bachelor Degree,Male,0,None,2.09,5,IE,Suburban,1500,No
+30490310,1,78,Graduate or Professional Degree,Male,1,Light,8.41,25,LAOC,Urban,13000,Yes
+30491971,1,36,Graduate or Professional Degree,Female,30,Light,10.79,40,LAOC,Suburban,6000,No
+30494096,1,31,Bachelor Degree,Male,1,Light,9.63,25,LAOC,Suburban,16000,No
+30494096,2,30,High School Graduate,Male,4,Light,3.23,15,LAOC,Suburban,7000,No
+30494250,1,65,Some College,Male,0,Light,8.29,20,IE,Urban,6000,No
+30494250,3,32,Some College,Female,0,Light,13.21,35,IE,Urban,8000,No
+30494300,1,55,Graduate or Professional Degree,Male,0,Light,31.83,60,IE,Suburban,15000,No
+30494364,1,43,Graduate or Professional Degree,Male,4,Light,14,35,LAOC,Urban,10000,No
+30494364,2,43,Some College,Female,2,Light,1.92,5,LAOC,Urban,6500,No
+30494812,1,76,Bachelor Degree,Male,0,Light,16.42,50,LAOC,Urban,5000,No
+30494885,1,41,Bachelor Degree,Male,5,Vigorous,36.72,45,IE,Small Town/Rural,20000,No
+30494885,3,62,High School Graduate,Female,0,None,39.89,50,IE,Small Town/Rural,16000,No
+30495036,1,54,Some College,Female,10,None,16.95,20,LAOC,Suburban,10000,No
+30495036,2,49,High School Graduate,Male,0,Light,34.79,45,LAOC,Suburban,20800,No
+30496231,1,43,Some College,Female,4,None,8.92,20,LAOC,Urban,11000,No
+30497573,1,63,Graduate or Professional Degree,Female,4,Light,23.87,45,LAOC,Urban,18000,No
+30498318,1,29,Graduate or Professional Degree,Male,10,Light,8.56,25,LAOC,Urban,12000,No
+30499728,1,64,Bachelor Degree,Male,5,Light,13.26,25,LAOC,Urban,5000,No
+30500645,1,30,High School Graduate,Male,10,Vigorous,3.25,10,LAOC,Urban,10000,No
+30500645,2,31,Bachelor Degree,Male,4,Light,15.98,30,LAOC,Urban,10000,No
+30500645,4,50,High School Graduate,Male,0,Light,3.25,5,LAOC,Urban,10000,No
+30501415,1,50,Graduate or Professional Degree,Female,0,Light,4.46,10,LAOC,Small Town/Rural,5800,No
+30502099,1,51,Some College,Male,0,Light,2.21,10,LAOC,Urban,25000,No
+30502734,1,52,Graduate or Professional Degree,Female,3,Light,6.26,15,IE,Urban,8000,No
+30502928,1,51,Graduate or Professional Degree,Female,2,Light,25.56,70,LAOC,Urban,20000,No
+30503329,2,45,Graduate or Professional Degree,Male,1,Light,20.99,35,LAOC,Urban,6000,No
+30504857,1,31,Bachelor Degree,Male,1,None,8.99,40,LAOC,Urban,10000,No
+30505214,1,40,Some College,Male,0,Vigorous,22.21,30,LAOC,Urban,20000,No
+30505214,2,39,Bachelor Degree,Female,10,Vigorous,19.36,45,LAOC,Urban,13500,No
+30505408,2,37,Bachelor Degree,Male,0,Vigorous,24.21,45,LAOC,Suburban,10900,Yes
+30506906,2,34,Bachelor Degree,Male,5,Light,4.72,10,LAOC,Urban,10000,Yes
+30507032,1,32,Bachelor Degree,Female,15,Light,59.41,75,IE,Urban,3000,No
+30507032,2,31,Some College,Male,15,None,47.19,60,IE,Urban,25000,No
+30507076,3,20,Some College,Male,2,Vigorous,9.93,50,LAOC,Suburban,1000,No
+30507990,1,52,Bachelor Degree,Female,1,Light,20.74,30,IE,Suburban,15360,No
+30508206,1,42,Bachelor Degree,Female,10,Light,28.35,80,LAOC,Urban,5000,No
+30508214,2,56,Some College,Female,3,None,1.24,15,LAOC,Urban,12000,No
+30508214,3,32,High School Graduate,Female,2,None,19.81,50,LAOC,Urban,8000,No
+30508503,1,54,Bachelor Degree,Female,5,Light,5.85,15,LAOC,Urban,5000,No
+30508503,2,51,Bachelor Degree,Male,2,Light,16.5,30,LAOC,Urban,8000,No
+30512036,1,58,Graduate or Professional Degree,Male,2,Light,16.47,35,LAOC,Urban,13000,No
+30512236,1,26,Bachelor Degree,Male,2,Light,1.07,5,LAOC,Urban,2500,No
+30513036,1,39,Graduate or Professional Degree,Male,10,Light,24.51,30,LAOC,Small Town/Rural,18000,Yes
+30513377,1,27,Bachelor Degree,Female,15,None,12.68,35,LAOC,Suburban,5000,No
+30513377,2,27,Bachelor Degree,Male,2,Light,13.37,35,LAOC,Suburban,13000,No
+30513406,1,49,Some College,Female,1,Light,10.05,25,IE,Suburban,15000,No
+30513968,1,56,Graduate or Professional Degree,Male,1,Light,5.17,10,LAOC,Suburban,17000,No
+30517339,1,58,Bachelor Degree,Female,2,Light,7.44,25,IE,Urban,20000,No
+30517454,1,50,Bachelor Degree,Male,5,Light,21.48,75,LAOC,Urban,16000,No
+30517454,2,48,Bachelor Degree,Female,0,Light,21.48,75,LAOC,Urban,2000,No
+30517796,3,68,Some College,Male,3,Light,16.33,25,LAOC,Urban,10000,No
+30519502,1,50,Graduate or Professional Degree,Female,5,Vigorous,5.64,20,LAOC,Urban,10000,No
+30520634,1,37,Bachelor Degree,Male,30,Light,31.91,40,LAOC,Suburban,18000,Yes
+30520634,2,36,Graduate or Professional Degree,Female,30,None,1.06,5,LAOC,Suburban,10000,No
+30521416,2,61,Graduate or Professional Degree,Female,5,Light,4.2,15,IE,Suburban,2000,No
+30523832,1,46,Bachelor Degree,Male,4,Light,27.33,75,LAOC,Suburban,20000,No
+30523832,2,43,Bachelor Degree,Female,5,Light,11.66,25,LAOC,Suburban,12000,No
+30524045,2,62,Graduate or Professional Degree,Female,10,Light,1.27,10,LAOC,Suburban,5000,No
+30524107,1,52,High School Graduate,Female,4,Light,9.24,20,LAOC,Urban,20000,No
+30524425,2,35,Bachelor Degree,Female,2,Light,10.1,30,LAOC,Urban,12975,No
+30524710,1,64,Graduate or Professional Degree,Male,3,Light,10.59,40,LAOC,Urban,15000,No
+30525109,1,55,Bachelor Degree,Female,10,Light,2.45,10,LAOC,Urban,6000,No
+30529669,1,58,Graduate or Professional Degree,Female,5,Light,14.4,25,LAOC,Urban,12000,No
+30529669,2,29,Some College,Male,15,None,1.48,10,LAOC,Urban,2500,No
+30530152,1,65,Graduate or Professional Degree,Female,4,Light,28.18,45,LAOC,Urban,18000,No
+30531420,1,49,Some College,Female,1,Light,2.85,10,LAOC,Urban,12000,No
+30531420,2,47,High School Graduate,Male,1,Vigorous,17.3,45,LAOC,Urban,25000,No
+30531652,1,45,Bachelor Degree,Male,10,Light,29.6,35,IE,Urban,16000,No
+30532537,1,42,Graduate or Professional Degree,Female,2,Light,25.25,60,LAOC,Suburban,15000,No
+30532537,2,36,Graduate or Professional Degree,Male,2,Light,13.42,35,LAOC,Suburban,10000,No
+30532676,1,52,Graduate or Professional Degree,Male,0,Light,37.21,85,LAOC,Suburban,29000,No
+30532676,2,47,Bachelor Degree,Female,0,Light,31.2,45,LAOC,Suburban,15000,No
+30533761,1,42,Bachelor Degree,Male,0,Vigorous,49.01,55,LAOC,Suburban,15000,Yes
+30534248,1,65,Bachelor Degree,Male,5,Vigorous,5.98,15,LAOC,Suburban,11000,No
+30534458,1,59,Graduate or Professional Degree,Male,1,Vigorous,13.4,25,IE,Urban,30000,No
+30534458,2,50,Bachelor Degree,Female,2,Light,47.18,50,IE,Urban,10000,No
+30534689,1,65,Some College,Male,0,Light,5.67,15,LAOC,Urban,27000,No
+30535146,1,54,Some College,Female,1,Light,12.83,25,LAOC,Urban,10000,No
+30535280,2,63,Some College,Female,0,Vigorous,4.2,30,LAOC,Urban,3000,No
+30536345,1,61,Bachelor Degree,Female,5,None,2.07,10,IE,Suburban,4500,Yes
+30537376,1,50,Some College,Male,1,Light,2.14,10,LAOC,Suburban,3000,No
+30538665,2,32,Graduate or Professional Degree,Male,10,Light,5.71,15,LAOC,Urban,9800,No
+30541680,1,33,Bachelor Degree,Male,3,Vigorous,3.03,10,LAOC,Urban,25000,Yes
+30541680,2,31,Bachelor Degree,Male,1,Vigorous,3.03,10,LAOC,Urban,16000,No
+30541782,1,33,Some College,Male,0,Light,71.98,70,IE,Small Town/Rural,36000,No
+30541958,1,57,Some College,Male,0,Vigorous,3.4,10,IE,Small Town/Rural,12000,No
+30542014,1,23,Bachelor Degree,Male,5,Vigorous,12.02,30,LAOC,Suburban,8000,No
+30542407,1,44,Some College,Male,0,Light,5.9,20,LAOC,Urban,8500,No
+30543052,2,19,High School Graduate,Female,5,Vigorous,4.95,15,IE,Small Town/Rural,2000,No
+30544659,1,79,Bachelor Degree,Female,0,Vigorous,29.43,60,LAOC,Suburban,18000,No
+30544775,2,58,High School Graduate,Female,2,Light,11.87,15,LAOC,Suburban,11000,No
+30544775,3,24,Some College,Female,2,Vigorous,3.51,5,LAOC,Suburban,15000,No
+30545264,1,63,Graduate or Professional Degree,Male,2,Light,21.86,35,LAOC,Urban,10000,No
+30545615,1,51,Bachelor Degree,Female,3,Light,12.69,45,LAOC,Urban,30000,No
+30545839,1,56,Some College,Female,2,Vigorous,1.45,5,IE,Small Town/Rural,9500,No
+30545938,1,70,Bachelor Degree,Male,0,Light,15.3,60,LAOC,Urban,20000,No
+30547479,2,35,High School Graduate,Male,0,Light,20.87,25,LAOC,Urban,10000,No
+30547801,2,50,Graduate or Professional Degree,Female,10,Vigorous,2.9,15,LAOC,Urban,10000,No
+30547809,1,33,Bachelor Degree,Female,4,Light,3.68,10,LAOC,Suburban,5000,No
+30551133,1,34,Bachelor Degree,Female,1,Vigorous,21.98,40,LAOC,Urban,15000,No
+30551133,2,36,Bachelor Degree,Male,0,Light,19.39,30,LAOC,Urban,8500,No
+30551475,2,63,Bachelor Degree,Male,2,Light,10.9,20,LAOC,Urban,7200,No
+30551762,1,47,Some College,Male,3,Light,3.75,10,IE,Urban,11000,No
+30551762,2,56,Some College,Female,3,Light,6.67,15,IE,Urban,4000,No
+30553252,1,34,Graduate or Professional Degree,Male,5,Light,14.76,40,LAOC,Urban,15000,No
+30553382,1,29,Bachelor Degree,Male,4,None,3.73,20,LAOC,Urban,12000,No
+30553784,1,44,Graduate or Professional Degree,Female,1,Light,11.32,25,LAOC,Urban,10000,No
+30554082,1,42,Bachelor Degree,Female,3,Light,17.28,45,LAOC,Urban,10000,No
+30555866,1,37,Bachelor Degree,Female,0,Vigorous,7.15,20,LAOC,Urban,15000,No
+30556245,1,40,Some College,Female,5,None,19.39,30,IE,Urban,10000,No
+30557162,1,41,Bachelor Degree,Female,2,Light,10.71,20,LAOC,Suburban,20000,No
+40000058,1,41,Graduate or Professional Degree,Female,2,Light,8.88,25,IE,Suburban,14000,No
+40000686,1,69,Some College,Male,3,Light,18.51,90,LAOC,Urban,14000,No
+40001186,2,67,Some College,Female,0,Light,3.24,15,LAOC,Urban,7000,No
+40003606,1,45,High School Graduate,Female,0,Light,4.34,10,LAOC,Urban,3500,No
+40003606,3,20,Some College,Male,3,Light,3.33,15,LAOC,Urban,2000,No
+40006451,1,61,Bachelor Degree,Female,10,Vigorous,12.41,30,LAOC,Suburban,10000,Yes
+40008264,1,48,Bachelor Degree,Female,4,Light,1.14,10,LAOC,Urban,7500,No
+40008726,2,39,Bachelor Degree,Male,20,Light,23.37,50,LAOC,Urban,12500,No
+40010764,1,32,Bachelor Degree,Female,5,None,18.29,45,LAOC,Urban,5000,No
+40010764,2,31,Bachelor Degree,Male,0,None,19.11,30,LAOC,Urban,4500,No
+40011917,1,51,Some College,Female,0,Light,0.75,10,LAOC,Urban,12000,No
+40011917,2,20,Some College,Male,0,Light,1.91,10,LAOC,Urban,10000,No
+40012123,1,40,Bachelor Degree,Female,15,Light,5.6,15,LAOC,Urban,10000,No
+40012751,2,43,Bachelor Degree,Female,5,Light,6.76,20,LAOC,Urban,5300,No
+40013505,1,64,Graduate or Professional Degree,Male,0,Light,31.2,60,LAOC,Urban,12400,No
+40013941,1,36,Bachelor Degree,Male,3,Light,11.33,20,LAOC,Urban,11000,No
+40015771,1,57,Graduate or Professional Degree,Male,4,Light,23.7,40,LAOC,Suburban,14370,No
+40015902,1,52,Bachelor Degree,Male,2,Vigorous,0.34,5,LAOC,Urban,12000,No
+40016660,2,34,Some College,Male,1,None,5.75,20,LAOC,Urban,12000,No
+40017530,1,43,Some College,Female,2,Light,20.05,40,LAOC,Urban,12000,No
+40019238,1,52,Some College,Male,5,Light,34.83,90,LAOC,Urban,13000,No
+40019238,2,48,Graduate or Professional Degree,Female,10,None,4.41,15,LAOC,Urban,10000,No
+40021489,1,28,Bachelor Degree,Male,2,Vigorous,7.41,30,LAOC,Urban,18000,No
+40021682,1,57,Bachelor Degree,Female,3,Vigorous,6.78,15,LAOC,Urban,12000,No
+40026263,2,47,Some College,Male,0,None,2.97,10,LAOC,Suburban,8000,No
+40026536,1,44,Bachelor Degree,Male,20,Light,17.32,30,LAOC,Suburban,17000,Yes
+40027794,1,46,Graduate or Professional Degree,Male,3,Vigorous,16.53,40,LAOC,Urban,15000,No
+40031164,1,66,Bachelor Degree,Female,2,None,24.4,45,LAOC,Urban,13000,No
+40034311,3,44,High School Graduate,Male,0,Light,7.97,45,LAOC,Urban,80000,No
+40034939,1,77,Graduate or Professional Degree,Female,5,Light,29.55,25,LAOC,Suburban,9000,No
+40036650,1,59,Some College,Female,1,Light,18.02,45,LAOC,Urban,3000,No
+40037210,2,65,Graduate or Professional Degree,Male,0,Vigorous,18.17,30,LAOC,Urban,15000,No
+40037926,3,51,Graduate or Professional Degree,Female,1,Light,26.23,45,IE,Small Town/Rural,15000,No
+40038145,2,45,Graduate or Professional Degree,Female,0,Light,15.75,45,LAOC,Suburban,15000,No
+40038824,1,60,Bachelor Degree,Male,10,Light,3.16,15,LAOC,Urban,9999,No
+40038824,2,18,Some College,Female,4,Light,4.96,15,LAOC,Urban,9876,No
+40039413,1,58,Some College,Female,2,Light,36.55,45,IE,Urban,4000,No
+40041970,1,53,Bachelor Degree,Male,0,Vigorous,29.36,30,LAOC,Suburban,15000,No
+40046112,1,35,Bachelor Degree,Male,0,Light,11.25,20,LAOC,Urban,6000,No
+40046112,2,34,Graduate or Professional Degree,Female,0,Vigorous,20.05,30,LAOC,Urban,8000,No
+40047159,1,63,Bachelor Degree,Male,3,Light,34.12,45,IE,Suburban,12000,No
+40047159,3,22,High School Graduate,Female,5,Vigorous,8.72,20,IE,Suburban,6500,No
+40047159,4,20,Some College,Female,1,None,16.38,30,IE,Suburban,3000,No
+40047506,1,49,Graduate or Professional Degree,Male,0,Vigorous,15.06,25,LAOC,Urban,12000,No
+40048576,2,32,Some College,Male,4,Light,0.57,5,LAOC,Urban,20000,Yes
+40049415,1,65,Bachelor Degree,Male,5,Vigorous,3.66,20,LAOC,Urban,7000,Yes
+40050336,1,55,Bachelor Degree,Male,3,Light,11.53,40,LAOC,Urban,2212,No
+40050498,2,28,Some College,Female,1,None,4.52,10,IE,Urban,6000,No
+40050964,1,40,Bachelor Degree,Female,1,Light,12.39,15,LAOC,Urban,8100,No
+40051135,1,42,Graduate or Professional Degree,Female,3,Light,5.66,10,IE,Urban,9000,No
+40052862,1,67,Graduate or Professional Degree,Male,0,Vigorous,22.72,45,LAOC,Suburban,25000,No
+40052943,1,25,Bachelor Degree,Female,4,Light,20.27,45,LAOC,Urban,15000,No
+40052943,2,26,Graduate or Professional Degree,Male,5,Light,9.48,40,LAOC,Urban,15000,No
+40053292,2,58,Some College,Male,0,Light,26.14,45,IE,Urban,24000,No
+40053891,2,60,Bachelor Degree,Female,2,Light,32.66,30,IE,Small Town/Rural,14000,No
+40056365,1,27,Graduate or Professional Degree,Male,5,Light,2.24,20,LAOC,Urban,6000,No
+40059133,2,34,Bachelor Degree,Male,1,None,27.56,45,IE,Urban,12000,Yes
+40060152,1,42,Graduate or Professional Degree,Male,2,Light,9.78,40,LAOC,Suburban,7000,No
+40060152,2,41,Graduate or Professional Degree,Female,20,Light,11.25,25,LAOC,Suburban,10000,Yes
+40060352,2,68,Graduate or Professional Degree,Male,2,Light,12.79,25,LAOC,Suburban,10000,Yes
+40060819,1,51,Some College,Male,3,Vigorous,6.53,20,LAOC,Urban,12000,No
+40061631,1,64,Graduate or Professional Degree,Male,1,Vigorous,50,70,LAOC,Urban,20000,No
+40065447,1,43,Graduate or Professional Degree,Female,5,Light,20.8,60,LAOC,Urban,10000,No
+40066282,1,40,Bachelor Degree,Male,5,Light,21.13,30,LAOC,Suburban,10000,No
+40068626,1,54,Bachelor Degree,Female,0,Light,2.81,10,LAOC,Urban,5000,No
+40068626,2,47,Bachelor Degree,Male,0,Vigorous,44.63,60,LAOC,Urban,10000,No
+40071126,2,55,High School Graduate,Male,4,Light,14.05,15,IE,Small Town/Rural,35000,No
+40071241,2,30,Bachelor Degree,Female,3,Light,14.12,45,LAOC,Urban,16000,No
+40074175,2,42,Some College,Male,5,Vigorous,2.99,10,LAOC,Urban,6000,Yes
+40074741,1,58,Graduate or Professional Degree,Female,2,Light,27.85,45,LAOC,Urban,17500,No
+40077315,1,62,Some College,Female,1,Vigorous,1.95,5,LAOC,Suburban,30000,No
+40077477,1,36,Bachelor Degree,Female,0,Light,4.41,10,IE,Urban,30000,No
+40080130,1,42,Bachelor Degree,Male,3,Vigorous,41.47,45,IE,Urban,20000,No
+40080130,2,40,Graduate or Professional Degree,Female,5,Light,16.13,25,IE,Urban,8000,No
+40082864,1,50,Graduate or Professional Degree,Female,2,Light,0.94,10,LAOC,Urban,5500,No
+40084289,1,49,Some College,Female,1,Light,26.13,45,IE,Suburban,12000,Yes
+40084785,2,49,High School Graduate,Male,4,None,5.49,10,LAOC,Urban,10000,No
+40085541,1,61,Bachelor Degree,Female,10,Light,10.1,15,LAOC,Suburban,7000,No
+40085669,1,44,Bachelor Degree,Male,1,Light,22.28,30,LAOC,Suburban,18000,No
+40087072,2,36,High School Graduate,Male,0,None,14.12,30,IE,Small Town/Rural,7000,No
+40087517,1,54,Some College,Male,3,Vigorous,78.89,85,IE,Urban,20000,No
+40089492,1,33,Graduate or Professional Degree,Female,1,Light,45.46,50,IE,Suburban,30000,No
+40099536,1,46,Bachelor Degree,Female,3,Light,37.49,90,LAOC,Urban,12000,No
+40101443,1,70,Graduate or Professional Degree,Male,10,None,51.39,45,LAOC,Suburban,38000,No
+40109299,1,65,Bachelor Degree,Female,1,Light,1.57,10,LAOC,Urban,2000,No
+40116259,1,41,High School Graduate,Female,2,Light,8.66,20,LAOC,Urban,2000,No
+40117280,1,28,Bachelor Degree,Male,1,Light,6.82,20,LAOC,Urban,10000,No
+40118177,1,63,Some College,Female,3,Light,9.62,30,LAOC,Urban,6000,No
+40119387,1,53,High School Graduate,Male,5,Light,53.83,90,LAOC,Suburban,40000,No
+40121244,1,43,Some College,Male,2,Light,19.71,45,LAOC,Suburban,20000,No
+40121244,2,40,Bachelor Degree,Female,2,Light,31.91,45,LAOC,Suburban,6000,No
+40123416,1,32,Graduate or Professional Degree,Female,10,Light,5.67,20,LAOC,Urban,14000,No
+40126481,1,28,Some College,Male,40,None,21.66,60,LAOC,Urban,19000,No
+40126845,2,56,High School Graduate,Female,0,Light,24.57,40,IE,Small Town/Rural,1400,No
+40129624,1,33,Some College,Female,5,Light,73.98,90,LAOC,Suburban,20000,No
+40129967,1,71,Bachelor Degree,Male,0,Vigorous,26.47,50,LAOC,Suburban,9000,No
+40129967,2,68,Some College,Female,0,Light,26.47,55,LAOC,Suburban,9500,No
+40130863,1,51,Some College,Female,0,Light,3.11,10,LAOC,Urban,1500,No
+40132449,1,32,Graduate or Professional Degree,Male,0,Light,6.52,15,LAOC,Urban,3000,Yes
+40134444,1,29,Bachelor Degree,Female,2,Light,8.38,45,LAOC,Urban,35000,No
+40134516,1,37,Bachelor Degree,Female,5,Light,10.32,20,LAOC,Suburban,15000,No
+40136900,1,32,Bachelor Degree,Male,10,Light,3.21,20,LAOC,Urban,12000,No
+40138410,2,59,Some College,Female,2,Light,5.97,15,LAOC,Urban,12000,No
+40138410,3,23,Some College,Female,0,Vigorous,17.34,25,LAOC,Urban,15000,No
+40142446,1,55,Bachelor Degree,Male,5,Light,18.02,30,LAOC,Suburban,4000,No
+40142555,1,52,Graduate or Professional Degree,Male,2,None,5.87,15,LAOC,Urban,5000,No
+40143055,2,60,Bachelor Degree,Female,0,Vigorous,24.53,40,IE,Suburban,12000,No
+40143908,1,63,Graduate or Professional Degree,Female,4,Light,5.66,30,LAOC,Urban,10000,No
+40143908,2,63,Graduate or Professional Degree,Male,0,Vigorous,6.72,15,LAOC,Urban,6000,No
+40144004,1,66,Graduate or Professional Degree,Male,2,Light,23.06,45,LAOC,Suburban,20000,No
+40144018,3,23,Some College,Male,5,Light,17.01,30,LAOC,Urban,10000,No
+40146357,1,55,Bachelor Degree,Male,3,Light,5.17,10,LAOC,Urban,51600,No
+40146591,1,50,Graduate or Professional Degree,Male,2,Light,4.46,20,LAOC,Urban,6000,Yes
+40146883,1,51,Some College,Male,5,Light,7.85,10,IE,Urban,35000,No
+40146883,2,53,Bachelor Degree,Female,3,None,1.5,5,IE,Urban,10000,No
+40147646,1,60,Graduate or Professional Degree,Female,0,None,13.61,70,LAOC,Urban,10000,No
+40147871,1,56,Some College,Male,2,Light,7.78,15,IE,Suburban,18000,No
+40148457,1,53,Some College,Male,10,Light,4.49,20,LAOC,Urban,15000,No
+40151975,1,53,Bachelor Degree,Female,0,Vigorous,32.52,75,LAOC,Urban,12000,No
+40157278,1,62,Graduate or Professional Degree,Female,0,Light,21.11,75,LAOC,Urban,5000,No
+40158107,1,41,Bachelor Degree,Male,1,Vigorous,7.77,20,LAOC,Urban,11000,No
+40158114,1,22,Bachelor Degree,Female,15,Light,13.76,40,LAOC,Suburban,10000,No
+40158114,2,25,Some College,Female,20,Light,2,10,LAOC,Suburban,25000,No
+40159621,1,59,Graduate or Professional Degree,Male,0,Light,8.62,40,LAOC,Suburban,10000,No
+40159656,1,36,Bachelor Degree,Female,3,Light,14.36,60,LAOC,Urban,15000,No
+40159656,2,37,Some College,Female,3,Light,6.93,30,LAOC,Urban,11000,No
+40159656,3,36,Some College,Female,4,Light,4.48,30,LAOC,Urban,15000,No
+40160296,2,39,Bachelor Degree,Female,1,None,12.99,20,IE,Suburban,5000,No
+40161682,1,33,Graduate or Professional Degree,Male,5,Light,2.07,10,IE,Suburban,10000,No
+40161794,1,63,Some College,Male,3,Vigorous,2.03,15,LAOC,Urban,10000,No
+40161953,1,43,Some College,Female,10,Light,1.77,10,IE,Urban,2000,No
+40161953,2,45,Bachelor Degree,Male,3,Light,10.81,20,IE,Urban,8400,No
+40162493,1,69,Some College,Male,0,Light,27,30,LAOC,Urban,10000,No
+40162493,2,68,Graduate or Professional Degree,Female,0,None,6.28,20,LAOC,Urban,10000,No
+40165901,1,50,Some College,Male,1,None,14.47,60,LAOC,Urban,15000,No
+40168932,1,55,Graduate or Professional Degree,Female,5,None,6.15,15,LAOC,Urban,9000,No
+40168967,1,51,Graduate or Professional Degree,Male,0,Light,4.57,20,LAOC,Urban,6500,No
+40172535,1,44,Bachelor Degree,Male,5,Light,17.42,40,LAOC,Urban,15000,No
+40172591,1,32,Bachelor Degree,Male,20,Vigorous,41.66,60,IE,Suburban,25000,No
+40172824,1,35,Bachelor Degree,Female,20,Vigorous,12.66,25,LAOC,Urban,14600,No
+40172824,2,43,Bachelor Degree,Male,30,Light,5.63,15,LAOC,Urban,14000,No
+40173971,1,46,Some College,Male,2,Light,16.29,25,IE,Urban,12500,No
+40175156,2,52,Bachelor Degree,Male,4,Light,15.07,40,LAOC,Suburban,35000,No
+40180148,1,55,Some College,Male,0,Vigorous,8.5,30,LAOC,Suburban,50000,No
+40180148,2,55,Bachelor Degree,Male,0,Light,36.63,45,LAOC,Suburban,35000,No
+40184194,1,33,Bachelor Degree,Male,20,Vigorous,36.64,50,LAOC,Urban,16500,No
+40184871,1,63,Graduate or Professional Degree,Female,3,Light,6.7,20,LAOC,Urban,8000,No
+40185284,1,69,Graduate or Professional Degree,Female,5,Light,42.55,90,LAOC,Suburban,8500,No
+40185738,1,52,Bachelor Degree,Male,0,Vigorous,12.44,35,LAOC,Urban,18000,No
+40185905,1,30,Bachelor Degree,Female,0,Light,22.68,100,LAOC,Urban,10000,No
+40186037,1,73,Graduate or Professional Degree,Female,2,Light,8.91,30,LAOC,Urban,6000,No
+40188710,2,46,Bachelor Degree,Male,2,Vigorous,13.96,45,LAOC,Small Town/Rural,40000,No
+40196424,2,44,Graduate or Professional Degree,Female,10,Light,2.74,10,LAOC,Suburban,2500,No
+40197352,1,54,Some College,Male,10,Light,32.12,60,LAOC,Suburban,24000,No
+40198972,2,38,Some College,Male,1,Vigorous,7.63,20,LAOC,Urban,15000,No
+40200310,1,32,Some College,Male,5,Light,14.27,50,LAOC,Urban,8000,Yes
+40200310,2,30,Bachelor Degree,Female,3,None,6.63,20,LAOC,Urban,5000,No
+40200310,3,30,Some College,Male,0,Light,9.43,20,LAOC,Urban,6000,No
+40200366,1,33,Bachelor Degree,Male,4,Vigorous,20.23,60,LAOC,Urban,7500,No
+40200366,2,29,High School Graduate,Female,10,Light,1.16,5,LAOC,Urban,1000,No
+40201138,2,63,Bachelor Degree,Male,1,Vigorous,2.19,10,LAOC,Suburban,12000,No
+40201559,2,55,Bachelor Degree,Male,2,Light,16.03,30,LAOC,Urban,14000,No
+40205591,2,42,Graduate or Professional Degree,Male,3,Light,4.43,25,LAOC,Urban,7000,No
+40207447,3,22,Some College,Male,0,Light,44.78,30,IE,Urban,10000,No
+40211657,1,34,Graduate or Professional Degree,Male,2,None,7.35,15,LAOC,Urban,20000,No
+40214913,2,50,Some College,Female,0,Light,3.3,10,LAOC,Urban,4000,No
+40214913,3,26,Bachelor Degree,Male,5,Light,27.93,30,LAOC,Urban,15000,No
+40214913,4,23,Bachelor Degree,Female,5,Light,30.59,30,LAOC,Urban,15000,No
+40215407,1,51,Bachelor Degree,Male,3,Light,6.74,30,LAOC,Urban,15000,No
+40215644,1,31,Graduate or Professional Degree,Female,5,Vigorous,17.12,20,IE,Suburban,12000,No
+40215894,1,53,Graduate or Professional Degree,Female,5,Light,4.28,20,LAOC,Suburban,13000,Yes
+40215894,2,23,Some College,Female,5,Light,3.23,15,LAOC,Suburban,16000,No
+40218055,1,30,Bachelor Degree,Male,15,Vigorous,18.69,35,LAOC,Suburban,12000,No
+40218055,2,30,Graduate or Professional Degree,Female,15,Vigorous,1.24,5,LAOC,Suburban,8000,No
+40220213,2,58,Bachelor Degree,Male,15,Vigorous,24.42,45,LAOC,Suburban,16000,No
+40221102,2,38,Bachelor Degree,Female,30,Light,8.23,20,LAOC,Urban,8000,No
+40223267,1,52,Some College,Male,0,Light,7.85,15,IE,Urban,20000,No
+40223300,1,52,Graduate or Professional Degree,Male,2,Light,10.47,35,LAOC,Urban,16000,No
+40223300,2,41,Some College,Female,0,Light,8.23,40,LAOC,Urban,15000,No
+40223580,1,47,Graduate or Professional Degree,Male,4,Light,8.35,15,IE,Urban,15000,No
+40223580,2,45,Bachelor Degree,Female,5,None,1.85,5,IE,Urban,10000,No
+40225603,1,61,Some College,Female,0,Vigorous,0.76,10,LAOC,Urban,3500,No
+40225603,2,62,Some College,Male,0,Light,0.76,10,LAOC,Urban,1250,No
+40225919,2,33,Bachelor Degree,Female,0,Light,6.07,20,LAOC,Urban,3500,No
+40227398,1,48,Bachelor Degree,Female,1,Vigorous,6.49,25,LAOC,Urban,11000,No
+40229386,2,65,High School Graduate,Male,1,Vigorous,22.64,40,LAOC,Urban,12000,No
+40231314,2,60,Some College,Female,4,Light,12.78,40,LAOC,Urban,15000,No
+40233492,2,51,High School Graduate,Male,0,Light,3.66,5,LAOC,Suburban,15000,No
+40234530,2,18,High School Graduate,Female,3,Light,13.57,20,LAOC,Suburban,15000,No
+40235901,1,48,Some College,Female,5,Vigorous,9.9,30,LAOC,Suburban,12000,No
+40235901,2,55,Graduate or Professional Degree,Male,2,Vigorous,9.9,45,LAOC,Suburban,25000,No
+40237484,2,45,Some College,Male,4,Vigorous,27.87,45,LAOC,Urban,14000,No
+40237586,1,40,Graduate or Professional Degree,Female,4,Light,8.3,25,IE,Urban,20000,No
+40237586,2,41,Some College,Male,0,Light,16.7,40,IE,Urban,20000,No
+40239009,1,35,Graduate or Professional Degree,Male,0,Vigorous,13.19,15,LAOC,Suburban,12000,Yes
+40239009,2,32,Graduate or Professional Degree,Female,1,Vigorous,4.36,30,LAOC,Suburban,16000,No
+40239377,1,53,High School Graduate,Female,1,Light,12.03,30,IE,Suburban,30000,No
+40239377,2,54,High School Graduate,Male,0,Vigorous,15.23,30,IE,Suburban,20000,No
+40240041,2,48,Bachelor Degree,Male,2,Light,4.61,15,IE,Suburban,12000,No
+40240333,1,54,High School Graduate,Female,3,Light,16.26,40,IE,Urban,11000,Yes
+40242690,1,65,Graduate or Professional Degree,Male,4,None,11.13,20,IE,Urban,13000,No
+40244044,1,54,Bachelor Degree,Male,0,Light,5.59,15,LAOC,Suburban,12000,No
+40244772,1,32,Graduate or Professional Degree,Male,15,Light,25,45,LAOC,Urban,19000,No
+40244986,1,56,Some College,Male,5,Light,22.66,55,LAOC,Urban,15000,No
+40245358,1,52,Graduate or Professional Degree,Male,2,Light,5.48,20,LAOC,Urban,14000,Yes
+40246089,1,43,Graduate or Professional Degree,Female,4,Light,5.88,20,LAOC,Suburban,6000,Yes
+40256779,1,66,Graduate or Professional Degree,Female,2,Vigorous,4.32,10,LAOC,Suburban,4200,No
+40257257,2,38,Some College,Male,0,None,46.41,55,LAOC,Urban,28000,Yes
+40257924,1,42,Some College,Male,4,Vigorous,6.44,15,LAOC,Urban,12000,No
+40258134,1,29,Graduate or Professional Degree,Female,10,Vigorous,7.51,15,LAOC,Urban,15000,No
+40260316,1,46,Graduate or Professional Degree,Male,1,Light,29.66,60,IE,Urban,25000,No
+40261169,1,56,Graduate or Professional Degree,Male,15,Light,5.74,15,LAOC,Urban,12000,No
+40261169,2,51,High School Graduate,Female,0,None,12.31,30,LAOC,Urban,10000,No
+40262101,2,34,Graduate or Professional Degree,Male,10,Light,5.29,25,LAOC,Urban,10000,Yes
+40263897,1,55,Some College,Female,5,Light,14.86,25,LAOC,Urban,12000,No
+40264233,1,57,High School Graduate,Female,0,Vigorous,4.88,15,LAOC,Urban,10000,No
+40264485,1,58,Graduate or Professional Degree,Male,10,Vigorous,9.53,30,LAOC,Suburban,12000,No
+40265656,1,60,Some College,Male,3,Light,13.48,35,LAOC,Urban,13000,No
+40265918,2,61,High School Graduate,Female,0,Vigorous,6.69,15,LAOC,Urban,8000,No
+40267840,1,59,Some College,Female,3,Light,28.6,60,IE,Suburban,12000,No
+40267840,2,60,Some College,Male,0,Light,12.24,30,IE,Suburban,12000,No
+40269782,1,52,Graduate or Professional Degree,Female,2,Light,15.63,25,LAOC,Urban,15000,No
+40269782,2,54,Graduate or Professional Degree,Male,10,Light,5.26,15,LAOC,Urban,10000,No
+40270201,1,54,Some College,Male,5,Vigorous,5.54,15,LAOC,Urban,12000,No
+40270201,2,55,Some College,Female,0,Vigorous,9.24,15,LAOC,Urban,9000,Yes
+40270201,3,22,Some College,Female,5,Vigorous,22.69,35,LAOC,Urban,15000,No
+40270201,4,20,Some College,Female,0,Light,8.28,15,LAOC,Urban,14000,No
+40272231,1,64,Graduate or Professional Degree,Male,0,Light,1.81,10,LAOC,Suburban,12362,No
+40272810,3,27,High School Graduate,Male,0,Light,3.5,15,IE,Suburban,4000,No
+40275143,2,58,Some College,Female,1,None,1.22,10,IE,Urban,15000,No
+40276226,1,68,High School Graduate,Male,0,Light,12.7,15,IE,Suburban,10000,No
+40276783,1,53,High School Graduate,Female,25,Vigorous,30.57,60,IE,Urban,20000,No
+40276783,2,36,Some College,Male,5,Vigorous,6.74,10,IE,Urban,10000,No
+40276783,3,34,High School Graduate,Female,5,Light,13.42,20,IE,Urban,12000,No
+40279985,1,67,Graduate or Professional Degree,Female,0,Light,32.19,40,LAOC,Urban,10000,No
+40279985,2,65,Some College,Female,0,Vigorous,5.74,20,LAOC,Urban,10000,No
+40281812,1,51,Graduate or Professional Degree,Male,1,Light,7.47,20,LAOC,Urban,10000,No
+40283231,1,54,Bachelor Degree,Female,0,Light,3.06,15,LAOC,Urban,8000,No
+40283965,2,52,Some College,Male,1,Vigorous,12.77,20,LAOC,Urban,10400,No
+40284382,1,41,Graduate or Professional Degree,Male,1,Light,13.35,30,IE,Suburban,16000,No
+40287770,1,54,Some College,Male,3,Light,58.97,60,IE,Suburban,30000,No
+40287770,3,25,Bachelor Degree,Female,3,None,24.4,50,IE,Suburban,10000,No
+40288058,1,81,Some College,Female,2,Light,1.91,10,LAOC,Urban,8000,No
+40288216,1,43,Bachelor Degree,Male,0,Light,4.27,20,LAOC,Urban,12000,No
+40290885,2,80,High School Graduate,Female,0,Light,2.92,10,LAOC,Urban,2000,No
+40291751,1,47,Some College,Male,4,Light,20.59,30,IE,Urban,15000,No
+40291936,1,38,Graduate or Professional Degree,Male,3,None,9.69,20,LAOC,Urban,2000,Yes
+40292879,1,47,Some College,Female,1,Light,1.09,15,LAOC,Urban,5000,No
+40293427,2,43,Bachelor Degree,Male,2,Vigorous,20.17,60,LAOC,Suburban,10000,Yes
+40293767,1,32,High School Graduate,Female,0,Light,9.41,25,IE,Urban,20000,No
+40294192,1,38,Graduate or Professional Degree,Male,3,Light,7.94,20,LAOC,Urban,15000,No
+40295139,1,45,Bachelor Degree,Male,10,Light,6.29,15,LAOC,Urban,12000,No
+40295139,2,37,Graduate or Professional Degree,Female,10,Vigorous,6.07,20,LAOC,Urban,10000,No
+40295366,2,49,Graduate or Professional Degree,Male,3,Light,14.28,35,LAOC,Small Town/Rural,15000,No
+40296172,1,25,Bachelor Degree,Female,5,Vigorous,3.16,10,LAOC,Urban,20000,No
+40301293,1,59,Graduate or Professional Degree,Male,0,Vigorous,8.68,25,LAOC,Suburban,8000,No
+40301293,3,23,Some College,Male,5,None,22.18,35,LAOC,Suburban,13000,No
+40302580,1,30,Some College,Female,10,Light,19.79,45,IE,Suburban,10000,No
+40303961,1,37,Some College,Female,3,Light,15.41,20,LAOC,Urban,20000,No
+40303961,2,39,High School Graduate,Male,0,Light,17.09,40,LAOC,Urban,6000,No
+40305560,1,58,Bachelor Degree,Female,1,Light,1.56,10,LAOC,Suburban,10000,No
+40305560,2,56,Bachelor Degree,Male,0,Light,38.9,45,LAOC,Suburban,15000,No
+40305560,4,32,Some College,Male,0,Vigorous,37.18,90,LAOC,Suburban,15000,No
+40306804,1,58,Bachelor Degree,Female,10,Light,28.09,45,IE,Urban,30000,Yes
+40306970,1,66,Graduate or Professional Degree,Female,10,Light,5.21,20,LAOC,Urban,8000,No
+40308884,2,48,Graduate or Professional Degree,Male,4,Light,5.01,15,IE,Suburban,4000,No
+40309546,2,61,Graduate or Professional Degree,Female,15,Vigorous,19.77,40,LAOC,Suburban,18000,No
+40309578,1,62,Some College,Female,0,Light,4.65,10,LAOC,Suburban,7000,No
+40310007,2,60,High School Graduate,Female,4,None,27.22,50,LAOC,Suburban,8000,Yes
+40310007,3,33,High School Graduate,Male,1,None,17.88,40,LAOC,Suburban,13500,No
+40312017,1,50,Some College,Female,5,None,5.5,20,LAOC,Urban,10000,No
+40313269,2,63,Some College,Male,5,Light,30.17,30,LAOC,Suburban,16000,No
+40315584,1,49,Some College,Male,2,None,12.38,50,LAOC,Suburban,14000,No
+40316156,1,69,High School Graduate,Female,10,Light,4.97,10,LAOC,Urban,3500,No
+40316156,2,43,Some College,Female,10,Light,2.63,10,LAOC,Urban,35000,No
+40316156,3,43,High School Graduate,Male,0,Vigorous,6.33,10,LAOC,Urban,4200,No
+40316335,1,52,Bachelor Degree,Male,15,Vigorous,32.67,45,LAOC,Suburban,12000,No
+40316600,1,32,Bachelor Degree,Female,5,Light,12.87,30,LAOC,Urban,30000,No
+40316600,2,35,Bachelor Degree,Male,2,Vigorous,13.36,30,LAOC,Urban,10000,No
+40319006,1,49,Graduate or Professional Degree,Male,5,Light,2.43,15,LAOC,Urban,9700,No
+40319006,2,38,Graduate or Professional Degree,Female,3,Light,16.89,30,LAOC,Urban,20000,Yes
+40320396,2,36,Graduate or Professional Degree,Female,4,Light,5.4,20,LAOC,Urban,10000,No
+40320625,1,47,Bachelor Degree,Male,5,Light,20.62,45,LAOC,Urban,10000,No
+40321247,1,42,Graduate or Professional Degree,Female,5,Light,2.62,10,LAOC,Urban,2200,No
+40323355,2,61,High School Graduate,Male,0,Vigorous,2.97,30,LAOC,Urban,15000,No
+40324746,2,45,Graduate or Professional Degree,Female,5,Light,5.47,20,LAOC,Urban,12000,No
+40324783,1,47,Graduate or Professional Degree,Male,10,None,34.81,75,LAOC,Suburban,20000,No
+40326978,1,51,Less than High School,Male,1,Light,4.48,25,LAOC,Urban,12000,No
+40326978,3,26,Some College,Male,10,Light,18.46,25,LAOC,Urban,13000,Yes
+40326978,4,24,Bachelor Degree,Female,5,Vigorous,15.23,25,LAOC,Urban,9000,No
+40326978,5,22,Some College,Male,15,Light,14.88,20,LAOC,Urban,7000,No
+40327031,1,30,Bachelor Degree,Female,5,None,6.93,15,IE,Urban,10000,No
+40330838,1,58,Graduate or Professional Degree,Male,0,Light,7.05,10,IE,Suburban,6500,No
+40330838,3,23,Some College,Male,3,Vigorous,38.03,80,IE,Suburban,20000,No
+40331520,2,63,Graduate or Professional Degree,Female,0,Light,0.66,5,LAOC,Urban,5000,No
+40334171,1,25,Bachelor Degree,Female,3,Light,4.47,15,LAOC,Urban,8000,No
+40334304,1,69,Bachelor Degree,Male,0,Light,3.72,25,LAOC,Suburban,9000,No
+40334583,1,54,Bachelor Degree,Male,3,Light,14.19,25,LAOC,Suburban,13000,No
+40334583,2,54,Some College,Female,3,None,8.18,30,LAOC,Suburban,10000,No
+40337914,1,33,Graduate or Professional Degree,Male,4,Light,23.03,55,LAOC,Urban,8500,No
+40337914,2,35,Bachelor Degree,Female,5,None,17.9,60,LAOC,Urban,15000,No
+40338748,1,30,Graduate or Professional Degree,Female,0,Light,18.78,30,LAOC,Urban,80000,No
+40340358,2,33,Bachelor Degree,Male,2,Vigorous,7.85,60,LAOC,Urban,5150,No
+40340834,2,60,Graduate or Professional Degree,Female,0,Light,3.12,10,LAOC,Urban,5000,No
+40345883,1,28,Graduate or Professional Degree,Female,3,None,12.27,35,LAOC,Urban,20000,Yes
+40350762,2,56,Graduate or Professional Degree,Female,5,Vigorous,0.8,5,LAOC,Suburban,12000,No
+40350927,1,62,Some College,Female,4,Light,19.95,40,IE,Suburban,30000,No
+40356581,1,67,Graduate or Professional Degree,Female,10,Light,9.22,20,LAOC,Suburban,12000,No
+40357614,1,47,High School Graduate,Male,0,Vigorous,26.52,35,IE,Urban,13000,No
+40359423,1,47,Bachelor Degree,Female,1,Light,4.46,20,LAOC,Urban,10000,No
+40359778,1,37,Graduate or Professional Degree,Male,2,Light,10.55,45,LAOC,Urban,13000,No
+40359789,1,23,Graduate or Professional Degree,Female,3,Vigorous,8.72,30,LAOC,Suburban,13000,No
+40360159,3,31,Bachelor Degree,Male,2,Light,26.29,45,LAOC,Urban,8000,No
+40360602,1,38,Graduate or Professional Degree,Male,20,None,22.07,40,LAOC,Urban,20000,Yes
+40360602,2,40,Graduate or Professional Degree,Female,5,Light,1.68,5,LAOC,Urban,8000,No
+40361317,1,41,Bachelor Degree,Female,2,Light,14.93,45,LAOC,Urban,15000,No
+40361317,2,41,Bachelor Degree,Male,1,Light,3.56,10,LAOC,Urban,30000,No
+40362353,1,34,Some College,Female,25,None,21.9,30,IE,Suburban,24000,No
+40362353,2,42,Some College,Male,0,None,16.12,20,IE,Suburban,50000,No
+40362960,1,60,Bachelor Degree,Male,2,Vigorous,58.33,70,LAOC,Urban,10000,No
+40366112,1,54,Some College,Female,2,Light,98.77,130,IE,Suburban,15000,No
+40366431,2,47,Bachelor Degree,Female,3,Vigorous,7.59,30,LAOC,Suburban,5000,No
+40366431,3,24,Some College,Female,0,Vigorous,21.84,60,LAOC,Suburban,12000,No
+40366492,1,57,Some College,Female,10,Light,1.69,10,IE,Small Town/Rural,10000,No
+40367021,1,50,Bachelor Degree,Male,5,Light,5.58,15,LAOC,Urban,15000,No
+40367885,2,38,Graduate or Professional Degree,Female,0,Light,34.7,45,LAOC,Suburban,2000,No
+40369480,1,33,Some College,Male,0,Light,12.02,25,LAOC,Suburban,1500,No
+40370968,1,34,Bachelor Degree,Female,10,None,14.78,20,LAOC,Suburban,25000,Yes
+40371914,1,39,Graduate or Professional Degree,Male,0,Light,9.01,45,LAOC,Urban,7000,No
+40373254,1,70,Graduate or Professional Degree,Male,3,Vigorous,11.14,20,LAOC,Urban,18000,Yes
+40373983,2,30,Some College,Male,1,Vigorous,8.44,30,IE,Urban,6000,No
+40374462,2,30,Graduate or Professional Degree,Male,2,Light,7.61,30,LAOC,Urban,4000,No
+40380312,1,61,Bachelor Degree,Female,0,Vigorous,2.1,20,IE,Urban,22000,No
+40380312,2,65,High School Graduate,Male,0,Vigorous,5.84,20,IE,Urban,11000,No
+40380629,2,58,High School Graduate,Male,0,Vigorous,13.81,25,LAOC,Urban,7500,No
+40381171,1,59,Bachelor Degree,Male,5,None,11.17,20,IE,Urban,10000,No
+40381171,2,60,Bachelor Degree,Female,3,Light,21.33,20,IE,Urban,12000,No
+40381181,2,61,Some College,Male,0,Light,3.93,60,LAOC,Urban,25000,No
+40382608,1,40,Graduate or Professional Degree,Male,1,None,6.75,20,IE,Suburban,10000,No
+40382608,2,39,Graduate or Professional Degree,Female,3,None,13.16,30,IE,Suburban,12000,No
+40382945,1,63,Some College,Male,1,Light,76.34,90,IE,Urban,22000,No
+40389209,1,49,Bachelor Degree,Male,1,Light,17.42,30,LAOC,Urban,12000,No
+40392977,1,60,Graduate or Professional Degree,Female,10,Light,19.9,50,LAOC,Urban,10000,No
+40393347,1,47,Bachelor Degree,Male,3,Light,15.68,25,LAOC,Suburban,18000,Yes
+40393347,2,44,Bachelor Degree,Female,2,None,9.6,15,LAOC,Suburban,8000,No
+40393630,2,74,Bachelor Degree,Female,4,Light,12.05,20,LAOC,Suburban,10000,No
+40394050,1,66,Some College,Male,5,Light,80.43,85,LAOC,Suburban,40000,No
+40395242,1,44,Graduate or Professional Degree,Male,0,Vigorous,10.12,20,LAOC,Urban,9500,Yes
+40395242,2,38,Graduate or Professional Degree,Female,0,None,4.22,10,LAOC,Urban,10000,No
+40396705,1,67,Graduate or Professional Degree,Male,5,Light,11.17,15,LAOC,Suburban,10000,Yes
+40398092,1,37,Graduate or Professional Degree,Male,4,Light,11.23,25,LAOC,Suburban,15000,No
+40398092,2,37,Graduate or Professional Degree,Female,5,Light,13.27,30,LAOC,Suburban,9000,No
+40398723,1,59,Bachelor Degree,Male,0,Light,9.57,20,LAOC,Urban,15000,Yes
+40400176,1,36,Bachelor Degree,Male,2,Vigorous,1.44,10,LAOC,Urban,10000,No
+40400241,1,27,Bachelor Degree,Male,5,None,6.05,15,LAOC,Urban,12000,No
+40400241,2,29,Graduate or Professional Degree,Female,15,Vigorous,43.42,75,LAOC,Urban,25000,No
+40403979,2,59,Bachelor Degree,Male,0,Light,3.23,15,LAOC,Urban,7000,No
+40405203,1,35,Bachelor Degree,Female,3,Light,5,20,LAOC,Urban,20000,No
+40405203,2,36,Bachelor Degree,Male,2,Vigorous,18.84,35,LAOC,Urban,15000,No
+40407032,1,56,Some College,Female,0,Light,19.52,40,IE,Suburban,22000,No
+40407032,2,53,Some College,Male,4,Vigorous,7.87,20,IE,Suburban,180000,No
+40408345,1,64,Some College,Female,0,Light,3.01,10,LAOC,Urban,5000,No
+40412156,1,66,Graduate or Professional Degree,Male,5,None,29.9,45,LAOC,Urban,35000,No
+40413212,1,49,Bachelor Degree,Male,4,Light,13.48,25,LAOC,Urban,10000,Yes
+40413212,2,47,Graduate or Professional Degree,Female,10,Light,4.61,15,LAOC,Urban,15000,No
+40413747,2,49,Graduate or Professional Degree,Female,2,Light,16.02,20,LAOC,Urban,12000,No
+40414608,1,56,Some College,Female,5,Vigorous,2.25,10,LAOC,Suburban,13000,No
+40415132,2,69,Bachelor Degree,Male,3,Light,0.54,5,LAOC,Urban,1000,No
+40415162,1,56,Graduate or Professional Degree,Female,10,Light,6.12,15,LAOC,Suburban,7500,No
+40416631,1,40,Graduate or Professional Degree,Female,0,Light,7.47,50,LAOC,Urban,5000,No
+40418292,1,39,Graduate or Professional Degree,Male,4,Light,3.64,20,LAOC,Urban,25000,No
+40418707,1,41,High School Graduate,Male,2,Light,19.72,45,IE,Suburban,15000,No
+40419504,1,52,Graduate or Professional Degree,Female,1,Vigorous,28.34,45,LAOC,Urban,10000,No
+40422224,1,36,Some College,Male,5,None,15.11,150,LAOC,Urban,14200,No
+40422757,1,38,Some College,Male,0,None,19,20,LAOC,Urban,8000,No
+40422757,2,31,Some College,Female,2,Light,6.64,45,LAOC,Urban,8000,No
+40425269,1,63,Some College,Female,4,Light,15.24,20,LAOC,Urban,10000,No
+40425269,2,60,Some College,Male,1,Vigorous,31,30,LAOC,Urban,15000,No
+40425269,3,23,High School Graduate,Male,10,Vigorous,15.11,15,LAOC,Urban,12000,No
+40425971,1,47,Graduate or Professional Degree,Male,5,Light,27.79,80,LAOC,Urban,19000,Yes
+40428784,3,20,High School Graduate,Female,0,Vigorous,80.66,75,IE,Urban,35000,No
+40429987,2,60,Graduate or Professional Degree,Male,1,Light,11.16,25,LAOC,Urban,7000,No
+40430507,1,42,Graduate or Professional Degree,Male,10,Light,35.3,70,IE,Small Town/Rural,28000,No
+40430507,2,42,Graduate or Professional Degree,Female,10,Light,8.37,20,IE,Small Town/Rural,20000,No
+40430874,1,47,Some College,Female,4,None,13.36,40,LAOC,Urban,6480,No
+40430874,2,41,Bachelor Degree,Male,0,None,43.88,75,LAOC,Urban,10480,No
+40432523,1,48,Graduate or Professional Degree,Female,4,Light,12.76,30,LAOC,Urban,15000,No
+40432523,2,56,Graduate or Professional Degree,Male,0,Vigorous,3.2,10,LAOC,Urban,6500,No
+40432965,1,38,Some College,Male,5,Light,34.29,60,LAOC,Suburban,35000,No
+40432965,2,34,Some College,Female,2,Light,9.7,25,LAOC,Suburban,12000,No
+40437915,1,24,Bachelor Degree,Female,3,None,17.67,45,LAOC,Urban,11000,No
+40438748,1,57,Graduate or Professional Degree,Male,2,Light,15.65,30,LAOC,Urban,10000,No
+40438748,2,52,Graduate or Professional Degree,Female,0,Light,1.92,5,LAOC,Urban,11000,No
+40441023,2,60,Graduate or Professional Degree,Female,2,Light,7.54,20,IE,Suburban,5500,No
+40441023,3,23,Some College,Female,1,Vigorous,2.04,5,IE,Suburban,18000,No
+40442515,1,47,Bachelor Degree,Male,10,Light,47.11,55,LAOC,Urban,8000,No
+40442539,1,65,Some College,Male,4,Vigorous,2.09,5,LAOC,Suburban,10000,No
+40442853,1,59,Bachelor Degree,Female,1,Vigorous,22.17,40,LAOC,Suburban,15000,Yes
+40443397,2,40,Graduate or Professional Degree,Male,5,Vigorous,8.88,20,LAOC,Suburban,12000,No
+40445184,1,56,Graduate or Professional Degree,Male,1,Vigorous,10.31,25,LAOC,Urban,12000,No
+40447418,2,44,Some College,Male,3,Light,31.23,45,LAOC,Urban,5000,No
+40448060,1,26,Bachelor Degree,Male,5,Light,26.32,50,LAOC,Urban,50000,No
+40448060,2,23,Bachelor Degree,Female,2,Light,4.6,30,LAOC,Urban,10000,No
+40448060,3,59,Less than High School,Male,0,Light,2.52,20,LAOC,Urban,80000,No
+40448377,1,35,Some College,Female,15,Light,4.47,10,LAOC,Urban,10000,No
+40453172,1,61,High School Graduate,Male,0,Light,3.89,5,IE,Urban,3000,No
+40454553,1,40,Graduate or Professional Degree,Male,1,Light,3.19,15,LAOC,Small Town/Rural,7000,No
+40457053,1,25,Some College,Male,5,Light,22.11,40,LAOC,Urban,7920,No
+40457053,3,53,Less than High School,Male,1,Light,22.11,35,LAOC,Urban,3000,No
+40457483,1,57,Bachelor Degree,Male,3,Vigorous,11.96,30,LAOC,Urban,11000,No
+40457483,2,54,Bachelor Degree,Female,5,Vigorous,11.96,30,LAOC,Urban,8500,No
+40457487,1,49,Some College,Male,1,Vigorous,10.84,25,LAOC,Urban,8000,No
+40457487,2,38,Some College,Female,3,Light,7.45,30,LAOC,Urban,10000,No
+40458424,1,53,Bachelor Degree,Female,2,Vigorous,7.71,15,LAOC,Urban,6500,No
+40458505,1,29,Bachelor Degree,Female,5,Light,13.55,30,LAOC,Urban,12000,No
+40458907,1,55,Graduate or Professional Degree,Female,3,Light,16.38,30,LAOC,Suburban,9000,No
+40458907,2,59,Graduate or Professional Degree,Male,0,Light,8.65,20,LAOC,Suburban,10000,No
+40461100,1,60,High School Graduate,Male,0,Vigorous,11.16,20,IE,Urban,10000,No
+40462508,2,31,Bachelor Degree,Male,5,Vigorous,2.21,10,IE,Urban,10000,No
+40464836,1,56,Bachelor Degree,Male,15,Light,10.4,30,LAOC,Urban,18000,No
+40464836,2,60,Graduate or Professional Degree,Female,2,None,10.57,35,LAOC,Urban,10500,No
+40464994,1,28,Bachelor Degree,Female,1,Vigorous,9.06,15,LAOC,Urban,3000,No
+40465118,1,63,Graduate or Professional Degree,Male,0,Vigorous,8.65,15,LAOC,Urban,9600,No
+40465118,2,64,Bachelor Degree,Female,0,Light,13.38,25,LAOC,Urban,13500,No
+40465118,3,27,Bachelor Degree,Male,3,Vigorous,3.45,10,LAOC,Urban,4800,No
+40468152,2,43,Less than High School,Male,2,None,29.18,45,IE,Urban,50000,No
+40468816,1,52,High School Graduate,Male,0,Light,6.17,20,LAOC,Urban,4000,No
+40471148,1,64,Some College,Female,2,Light,17.48,35,LAOC,Suburban,11000,No
+40471957,1,36,Bachelor Degree,Male,0,Light,23.04,60,IE,Suburban,20000,Yes
+40471957,2,34,Bachelor Degree,Female,3,None,6.59,20,IE,Suburban,10000,No
+40472544,2,37,Some College,Male,0,Light,5.12,15,LAOC,Urban,8000,No
+40478719,1,32,Graduate or Professional Degree,Female,10,Vigorous,14.19,35,LAOC,Suburban,11000,Yes
+40478719,2,42,Bachelor Degree,Male,5,Light,17.79,40,LAOC,Suburban,12000,No
+40480509,1,57,Bachelor Degree,Male,1,Vigorous,3.19,10,LAOC,Urban,10000,Yes
+40482233,1,71,Graduate or Professional Degree,Female,4,Light,4.56,20,LAOC,Suburban,7500,No
+40483109,1,49,Bachelor Degree,Female,2,Vigorous,12.47,35,LAOC,Urban,7500,No
+40484326,1,33,Bachelor Degree,Female,0,None,39.34,60,LAOC,Urban,15000,No
+40484326,2,36,Bachelor Degree,Male,15,Light,13.92,45,LAOC,Urban,6000,Yes
+40487810,1,80,Graduate or Professional Degree,Male,0,Vigorous,21.82,60,LAOC,Urban,15000,No
+40489589,2,50,Graduate or Professional Degree,Male,0,Light,52.64,90,LAOC,Suburban,18000,Yes
+40492772,2,59,Some College,Male,0,Light,3.78,10,LAOC,Urban,10000,No
+40493358,1,49,Some College,Female,5,Vigorous,3.7,10,LAOC,Urban,2600,No
+40493868,1,51,Some College,Male,0,Vigorous,28.07,60,LAOC,Suburban,21000,No
+40493904,1,57,Graduate or Professional Degree,Female,0,Light,15.74,45,LAOC,Urban,10000,No
+40494075,1,47,Some College,Male,2,Vigorous,14.38,30,LAOC,Urban,18000,No
+40494709,1,28,Some College,Female,2,Vigorous,1.71,5,IE,Urban,15000,No
+40494803,2,35,Bachelor Degree,Female,1,Light,3.54,15,LAOC,Urban,2700,No
+40494883,1,52,Bachelor Degree,Male,3,Vigorous,4.67,20,LAOC,Urban,2800,No
+40495865,1,63,Bachelor Degree,Male,4,Light,4.55,15,LAOC,Urban,10000,No
+40496224,1,45,Graduate or Professional Degree,Male,5,Vigorous,17.03,30,LAOC,Urban,18000,No
+40496505,1,59,Graduate or Professional Degree,Male,1,Light,23.5,40,LAOC,Urban,16500,No
+40496505,2,57,Some College,Female,4,Light,20.87,50,LAOC,Urban,6000,Yes
+40498402,1,31,Some College,Female,3,Light,19.97,40,LAOC,Urban,15009,No
+40500239,2,50,Some College,Female,2,Light,1.51,5,IE,Urban,3000,No
+40503187,1,38,Graduate or Professional Degree,Male,10,Vigorous,13.22,40,LAOC,Urban,17000,No
+40506368,2,24,Some College,Male,2,Vigorous,11.67,15,IE,Suburban,10000,No
+40509436,1,63,Graduate or Professional Degree,Male,2,Light,10.81,20,LAOC,Urban,13000,No
+40509855,1,47,Graduate or Professional Degree,Female,10,Light,5.27,15,LAOC,Urban,10000,No
+40511417,2,51,Graduate or Professional Degree,Male,0,Light,5.57,15,LAOC,Urban,11000,No
+40513462,1,55,Some College,Male,5,Light,25.16,50,LAOC,Urban,12000,No
+40513462,2,49,Some College,Female,3,Light,5,15,LAOC,Urban,7000,No
+40513561,1,26,Some College,Male,5,None,1.6,10,LAOC,Urban,150000,No
+40514064,1,41,Graduate or Professional Degree,Male,3,Vigorous,30.2,60,LAOC,Suburban,20000,Yes
+40514616,1,30,High School Graduate,Male,5,Vigorous,15.92,40,LAOC,Urban,15000,No
+40516628,1,36,Graduate or Professional Degree,Female,20,Light,27.44,45,LAOC,Urban,12500,No
+40516628,2,41,Bachelor Degree,Male,25,Light,2.34,15,LAOC,Urban,1500,No
+40518324,1,52,Graduate or Professional Degree,Female,2,Light,17,20,LAOC,Small Town/Rural,25000,No
+40524987,1,63,Bachelor Degree,Female,3,Light,1.6,10,LAOC,Urban,5000,No
+40527495,1,66,High School Graduate,Male,0,Light,18.56,35,LAOC,Suburban,10000,No
+40527495,2,52,High School Graduate,Female,0,Light,7.8,15,LAOC,Suburban,8000,No
+40529998,1,43,Some College,Female,1,Light,6.4,10,LAOC,Small Town/Rural,12000,Yes
+40530181,1,55,Graduate or Professional Degree,Male,1,Light,27.59,45,IE,Urban,10000,No
+40532405,2,46,Some College,Male,5,Light,9.34,20,LAOC,Suburban,9000,No
+40533990,1,65,Some College,Female,2,Light,10.56,30,LAOC,Urban,10000,No
+40534221,1,54,Graduate or Professional Degree,Male,1,Vigorous,6.84,15,LAOC,Urban,12000,No
+40535127,1,40,Graduate or Professional Degree,Female,1,Light,19.83,30,LAOC,Urban,15000,No
+40535127,2,40,Graduate or Professional Degree,Male,1,Light,17.7,45,LAOC,Urban,10500,No
+40535937,1,62,Some College,Female,3,Vigorous,5.58,25,LAOC,Urban,10000,No
+40540475,1,35,Some College,Female,5,Light,7.74,45,LAOC,Urban,10000,No
+40542754,1,56,Graduate or Professional Degree,Male,10,Vigorous,14.14,25,LAOC,Urban,12000,No
+40543828,1,34,Graduate or Professional Degree,Female,10,Light,9.53,30,LAOC,Suburban,8000,No
+40543828,2,38,Bachelor Degree,Male,3,Vigorous,25.74,45,LAOC,Suburban,14000,No
+40546578,2,56,Some College,Female,5,None,12.89,25,LAOC,Urban,18000,No
+40546578,3,26,High School Graduate,Male,5,Vigorous,47.3,50,LAOC,Urban,14000,No
+40547071,1,48,Bachelor Degree,Female,4,Light,5.72,10,LAOC,Suburban,12000,No
+40547651,1,61,Some College,Male,2,Light,68.89,75,LAOC,Urban,36000,No
+40548802,1,63,Some College,Male,3,Light,19.23,40,LAOC,Suburban,17000,No
+40548802,2,53,Some College,Female,0,Light,63.62,120,LAOC,Suburban,40000,No
+40548802,3,24,Some College,Male,1,None,25.89,60,LAOC,Suburban,35000,No
+40548802,4,21,Bachelor Degree,Female,5,Vigorous,10.03,25,LAOC,Suburban,10000,No
+40549931,1,52,Some College,Female,2,Vigorous,4.45,10,LAOC,Urban,20000,No
+40551543,2,65,Some College,Female,2,Vigorous,1.13,5,LAOC,Suburban,5000,No
+40552234,1,65,Some College,Female,5,Light,1.14,10,IE,Urban,1500,No
+40553534,1,34,High School Graduate,Male,10,Light,52.48,90,IE,Urban,25000,No
+40553534,2,32,High School Graduate,Female,10,Vigorous,28.14,120,IE,Urban,24000,No
+40554215,2,51,Graduate or Professional Degree,Male,5,Light,8.32,25,LAOC,Suburban,18000,No
+40554654,1,36,Bachelor Degree,Female,4,Vigorous,12.18,15,LAOC,Urban,9000,No
+40554654,2,42,Bachelor Degree,Male,10,Vigorous,14.35,30,LAOC,Urban,10000,No
+40554736,1,56,Bachelor Degree,Male,1,Light,6.91,20,LAOC,Suburban,13000,No
+40554736,2,61,High School Graduate,Female,0,None,5.97,25,LAOC,Suburban,15000,No
+40554736,3,31,Bachelor Degree,Female,0,Light,6.37,15,LAOC,Suburban,4900,No
+40554756,1,54,High School Graduate,Female,1,None,4.48,15,IE,Urban,12000,No
+40554756,2,55,High School Graduate,Male,0,Light,36.51,60,IE,Urban,30000,No
+40555330,4,63,High School Graduate,Male,0,Light,3.52,45,LAOC,Urban,18000,No
+40555449,1,31,Graduate or Professional Degree,Male,10,Vigorous,27.79,35,LAOC,Urban,5000,No
+40557086,1,49,Bachelor Degree,Male,3,Vigorous,17.73,50,LAOC,Urban,8000,No
+40557086,2,54,High School Graduate,Female,10,Light,2.53,15,LAOC,Urban,10000,No
+40558140,1,35,Bachelor Degree,Male,10,Light,15.4,40,LAOC,Urban,12000,No
+40559747,1,45,Graduate or Professional Degree,Male,5,None,25.83,75,LAOC,Urban,20000,Yes
+40559747,2,36,Graduate or Professional Degree,Female,2,None,1,5,LAOC,Urban,1040,No
+40559747,3,24,Some College,Male,3,Light,2.71,10,LAOC,Urban,8500,No
+40560229,2,58,Some College,Female,1,Light,4.61,15,IE,Urban,12000,No
+40560864,1,66,Some College,Male,2,Light,10.27,15,LAOC,Urban,4500,No
+40561880,1,31,Graduate or Professional Degree,Female,10,Light,11.54,40,LAOC,Urban,8500,No
+40562052,1,50,Some College,Male,10,Light,3.66,15,LAOC,Urban,12000,Yes
+40562912,1,23,Bachelor Degree,Female,0,Light,12.16,20,LAOC,Urban,6000,No
+40562912,2,23,Bachelor Degree,Female,0,Light,15.91,20,LAOC,Urban,20000,No
+40563547,1,54,Bachelor Degree,Male,20,Light,4.8,20,LAOC,Suburban,11500,No
+40563547,3,22,Some College,Male,5,Vigorous,4.8,20,LAOC,Suburban,18000,No
+40564246,1,35,Graduate or Professional Degree,Male,4,None,25.6,40,LAOC,Suburban,29000,Yes
+40565236,1,36,Graduate or Professional Degree,Female,1,Light,1.41,10,LAOC,Urban,1500,Yes
+40566206,1,64,Graduate or Professional Degree,Female,0,Vigorous,3.69,15,LAOC,Urban,2000,No
+40566788,1,51,Some College,Female,0,Light,0.97,5,LAOC,Urban,12000,No
+40567377,1,50,Bachelor Degree,Female,2,Vigorous,9.24,25,LAOC,Urban,3750,No
+40568185,2,61,Some College,Male,0,Vigorous,7.32,10,LAOC,Urban,10000,Yes
+40570598,1,63,Graduate or Professional Degree,Male,1,Light,22.49,45,IE,Suburban,22000,No
+40570598,2,61,Graduate or Professional Degree,Female,5,Vigorous,1.14,5,IE,Suburban,7500,No
+40571977,1,27,High School Graduate,Female,0,None,25.47,40,LAOC,Urban,28000,No
+40572060,1,57,Some College,Male,0,Vigorous,32.32,45,LAOC,Suburban,19000,No
+40572060,2,58,Some College,Female,1,Light,5.33,10,LAOC,Suburban,15000,No
+40572641,1,42,Some College,Female,15,Light,5.39,15,IE,Urban,4000,No
+40573206,1,44,Graduate or Professional Degree,Male,15,Vigorous,4.78,15,LAOC,Suburban,14000,No
+40573206,2,45,Bachelor Degree,Female,20,None,4.88,15,LAOC,Suburban,4400,No
+40578998,1,31,Some College,Male,5,Light,11.41,20,LAOC,Urban,40000,No
+40579108,1,44,Graduate or Professional Degree,Male,3,Vigorous,11.16,20,IE,Urban,25000,No
+40579108,2,43,Graduate or Professional Degree,Female,0,Vigorous,12.08,30,IE,Urban,20000,No
+40580647,2,64,High School Graduate,Female,0,Light,5.02,15,LAOC,Suburban,5000,No
+40581577,2,46,Graduate or Professional Degree,Male,1,Light,32.37,110,IE,Urban,45000,Yes
+40582699,1,58,Bachelor Degree,Male,0,Vigorous,50.28,45,LAOC,Suburban,10000,No
+40584055,1,24,High School Graduate,Male,1,Light,3.9,10,IE,Small Town/Rural,9000,No
+40585063,1,32,Graduate or Professional Degree,Female,4,Light,15.96,35,LAOC,Urban,14000,No
+40585063,2,28,Graduate or Professional Degree,Male,4,Light,17.53,30,LAOC,Urban,14000,No
+40585300,1,49,Some College,Female,3,None,7.9,45,LAOC,Urban,14000,No
+40585644,1,40,Bachelor Degree,Male,3,Light,17.44,30,LAOC,Suburban,15000,No
+40587416,1,32,High School Graduate,Male,10,Light,4.41,15,LAOC,Urban,13000,Yes
+40590127,1,63,Bachelor Degree,Female,0,Light,3.88,15,LAOC,Urban,2000,No
+40590127,2,69,Bachelor Degree,Male,0,Light,5.03,25,LAOC,Urban,20000,No
+40590202,2,44,Bachelor Degree,Male,2,Light,3.08,15,IE,Urban,10000,No
+40591581,1,50,Some College,Female,5,Vigorous,36.59,45,LAOC,Suburban,26000,No
+40596360,2,67,Some College,Male,0,Vigorous,2.7,25,LAOC,Urban,10000,No
+40597836,1,70,Graduate or Professional Degree,Male,10,Light,3.02,10,LAOC,Urban,25000,No
+40597836,2,64,Graduate or Professional Degree,Female,10,Vigorous,1.44,10,LAOC,Urban,7000,No
+40598569,1,36,Bachelor Degree,Male,10,Light,26.14,40,LAOC,Urban,18000,No
+40598610,2,80,Some College,Male,0,Vigorous,25.33,35,IE,Small Town/Rural,10000,No
+40598648,2,37,High School Graduate,Male,0,Vigorous,20.12,45,IE,Small Town/Rural,1000,No
+40600501,2,62,Graduate or Professional Degree,Male,0,Vigorous,25.91,90,LAOC,Urban,12000,No
+40603453,2,50,Graduate or Professional Degree,Male,1,Light,15.38,20,LAOC,Suburban,13000,No
+40603886,2,59,Graduate or Professional Degree,Male,5,Light,16.14,30,LAOC,Urban,10000,No
+40607030,1,39,Graduate or Professional Degree,Male,0,Vigorous,10.39,20,LAOC,Urban,15000,No
+40607030,2,38,Bachelor Degree,Male,1,Vigorous,8.45,30,LAOC,Urban,10000,No
+40607882,2,21,Some College,Female,5,Vigorous,10.08,20,LAOC,Urban,2200,Yes
+40607882,4,51,Some College,Male,2,Light,4.62,15,LAOC,Urban,2400,No
+40607882,5,48,Some College,Female,4,Light,10.08,30,LAOC,Urban,2000,No
+40608355,1,57,Bachelor Degree,Male,5,Light,22.54,30,LAOC,Urban,34000,No
+40608355,2,54,Some College,Female,0,Vigorous,6,20,LAOC,Urban,12000,No
+40608635,2,54,Some College,Male,30,Light,49.32,120,IE,Urban,60000,No
+40609054,1,33,Graduate or Professional Degree,Female,5,Light,7.06,35,LAOC,Urban,12000,No
+40609058,2,57,Graduate or Professional Degree,Female,2,Vigorous,30.93,40,LAOC,Urban,12000,Yes
+40609137,1,48,High School Graduate,Male,0,None,9.52,30,LAOC,Urban,2880,No
+40611450,1,58,Graduate or Professional Degree,Male,10,Light,6.9,15,LAOC,Suburban,8000,No
+40614090,1,31,Some College,Male,1,Light,7.34,20,LAOC,Urban,15000,No
+40617025,2,48,Some College,Male,2,Light,5.6,20,LAOC,Urban,10000,No
+40617025,3,25,Bachelor Degree,Female,5,Light,3.79,20,LAOC,Urban,5000,No
+40617025,4,21,Some College,Female,0,Light,3.02,10,LAOC,Urban,9000,No
+40617047,1,74,Some College,Male,0,Light,3.83,20,LAOC,Urban,4200,No
+40617047,2,34,Graduate or Professional Degree,Female,2,Vigorous,27.93,70,LAOC,Urban,60000,No
+40620742,1,40,Bachelor Degree,Male,5,Light,20.16,35,LAOC,Urban,12000,No
+40622647,1,37,Graduate or Professional Degree,Male,2,Light,9.9,30,LAOC,Small Town/Rural,3000,No
+40624370,4,36,Graduate or Professional Degree,Male,10,Vigorous,18,90,LAOC,Suburban,12000,No
+40626605,1,57,Some College,Female,10,Vigorous,9.66,15,LAOC,Urban,10000,No
+40629086,1,52,Some College,Female,0,Light,10.53,80,IE,Suburban,50000,No
+40631072,2,43,Some College,Female,5,Vigorous,1.53,10,LAOC,Suburban,8000,No
+40631263,1,47,Graduate or Professional Degree,Male,4,Light,17.44,25,IE,Suburban,28000,No
+40631263,2,48,Graduate or Professional Degree,Female,2,Light,17.44,25,IE,Suburban,35000,Yes
+40633519,2,42,Graduate or Professional Degree,Male,3,Light,5.45,15,LAOC,Urban,10000,No
+40638356,1,43,Bachelor Degree,Male,2,Vigorous,15.69,25,LAOC,Suburban,10000,No
+40638356,2,43,Bachelor Degree,Female,2,Vigorous,4.96,15,LAOC,Suburban,5000,No
+40640621,2,36,High School Graduate,Male,2,None,15.47,30,LAOC,Suburban,5000,No
+40642584,1,54,High School Graduate,Male,0,Light,15.99,25,LAOC,Urban,13000,No
+40644215,1,49,Graduate or Professional Degree,Female,15,Light,20.43,25,LAOC,Urban,12000,Yes
+40646434,1,31,Bachelor Degree,Male,15,Light,32.28,40,LAOC,Suburban,25000,No
+40648265,1,47,Some College,Female,4,Light,1.26,5,IE,Small Town/Rural,12000,No
+40652892,1,33,Bachelor Degree,Female,10,Light,20.7,40,LAOC,Urban,2760,No
+40655120,1,51,Some College,Female,5,Light,8.76,10,LAOC,Urban,6000,No
+40656390,1,45,Bachelor Degree,Female,0,Light,15.57,60,LAOC,Urban,9000,No
+40657323,2,54,Graduate or Professional Degree,Female,5,Light,16.51,30,LAOC,Small Town/Rural,15000,No
+40657602,2,51,Some College,Male,0,Vigorous,7.51,15,LAOC,Urban,10000,No
+40659616,1,33,Bachelor Degree,Male,10,None,6.79,30,LAOC,Urban,6000,No
+40661169,1,38,Bachelor Degree,Male,4,Light,10.14,30,LAOC,Suburban,8000,No
+40661169,2,33,Bachelor Degree,Female,3,Light,14.39,45,LAOC,Suburban,10000,No
+40661354,1,64,Some College,Male,0,Light,14.73,70,LAOC,Urban,13000,No
+40661354,2,62,Some College,Female,0,None,12.01,30,LAOC,Urban,10000,No
+40662202,1,39,Graduate or Professional Degree,Female,15,Vigorous,5.52,15,LAOC,Urban,12000,No
+40662202,2,37,Bachelor Degree,Male,5,Vigorous,15.83,60,LAOC,Urban,15000,No
+40663260,1,43,Some College,Male,5,Light,3.54,20,LAOC,Urban,10000,No
+40664032,1,33,Graduate or Professional Degree,Female,1,Light,10.88,35,LAOC,Urban,8000,Yes
+40664493,1,65,Some College,Male,0,Light,10.81,25,LAOC,Urban,9000,No
+40664493,2,62,Bachelor Degree,Female,0,Light,14.18,35,LAOC,Urban,5000,No
+40667797,1,38,Bachelor Degree,Female,1,Light,49.41,65,IE,Urban,23540,No
+40667980,1,37,Bachelor Degree,Male,3,Light,11.76,25,IE,Suburban,15000,No
+40667980,3,34,High School Graduate,Male,3,Light,20.71,30,IE,Suburban,15000,No
+40667980,4,30,High School Graduate,Male,3,Vigorous,18.14,30,IE,Suburban,15000,No
+40668638,1,61,Some College,Male,0,Light,57.34,45,IE,Suburban,45000,No
+40670715,1,31,Bachelor Degree,Male,2,Light,0.5,10,LAOC,Urban,10000,No
+40672122,1,70,Graduate or Professional Degree,Male,0,Light,7.38,15,LAOC,Suburban,14000,No
+40674242,1,31,High School Graduate,Female,0,Vigorous,1.43,10,LAOC,Urban,10000,No
+40674242,2,36,High School Graduate,Male,0,Light,0.72,10,LAOC,Urban,15000,No
+40675060,1,34,Graduate or Professional Degree,Male,5,Light,22.06,45,LAOC,Urban,20000,Yes
+40676345,1,64,Graduate or Professional Degree,Male,0,Light,5.6,20,LAOC,Urban,7000,No
+40679687,1,36,Graduate or Professional Degree,Male,20,Vigorous,3.76,20,LAOC,Urban,13000,No
+40682837,1,50,Bachelor Degree,Female,0,None,11.8,35,LAOC,Suburban,20000,No
+40683160,1,59,Graduate or Professional Degree,Male,0,Light,37.47,50,LAOC,Urban,20000,No
+40685216,1,50,Some College,Male,1,Light,15,40,LAOC,Urban,7000,No
+40685906,2,68,Some College,Male,2,Light,2.67,15,LAOC,Urban,8500,No
+40687092,2,26,Some College,Female,0,Vigorous,6.22,30,LAOC,Urban,1200,No
+40687280,1,65,Graduate or Professional Degree,Male,10,Light,30.35,50,IE,Urban,19000,No
+40687280,2,63,Graduate or Professional Degree,Female,15,Light,2.48,10,IE,Urban,3000,No
+40687280,3,30,Graduate or Professional Degree,Female,10,Vigorous,26.4,70,IE,Urban,17000,No
+40687929,1,50,Bachelor Degree,Female,1,Light,11.25,30,LAOC,Urban,11000,Yes
+40688046,2,40,Bachelor Degree,Male,5,Vigorous,37.36,90,LAOC,Urban,25000,No
+40688055,1,70,Bachelor Degree,Male,2,Vigorous,1.13,5,LAOC,Urban,10000,No
+40688055,3,70,Bachelor Degree,Female,0,Light,13.08,15,LAOC,Urban,8000,No
+40688676,1,58,Graduate or Professional Degree,Male,10,Vigorous,10.01,20,LAOC,Suburban,12000,No
+40692542,1,42,Bachelor Degree,Male,5,Light,6.18,20,LAOC,Urban,12000,No
+40692542,2,42,Graduate or Professional Degree,Female,4,Light,7.75,15,LAOC,Urban,10000,No
+40692698,1,26,Bachelor Degree,Female,1,Light,13.46,35,LAOC,Urban,16000,No
+40693769,1,43,Bachelor Degree,Female,0,Light,28.39,75,IE,Urban,15000,No
+40693886,1,46,Some College,Female,5,Light,26.28,60,IE,Suburban,20000,No
+40693886,2,45,Some College,Male,0,Vigorous,20.26,30,IE,Suburban,10000,No
+40694099,1,61,Some College,Female,2,Light,13.43,30,LAOC,Suburban,10000,No
+40694726,1,57,Less than High School,Male,0,None,8.98,20,LAOC,Urban,13000,No
+40694749,1,51,Bachelor Degree,Male,4,Vigorous,2.84,10,IE,Suburban,10000,No
+40695034,1,73,Graduate or Professional Degree,Male,1,Light,14.05,25,LAOC,Suburban,10000,No
+40695259,1,46,Bachelor Degree,Male,2,Light,16.25,45,LAOC,Urban,15000,No
+40695259,2,41,Some College,Female,3,Vigorous,17.9,30,LAOC,Urban,5000,No
+40696196,2,42,Bachelor Degree,Female,5,Vigorous,2.99,10,IE,Urban,4000,No
+40697488,1,59,Bachelor Degree,Male,1,Light,43.83,55,LAOC,Suburban,21250,Yes
+40697488,2,59,Some College,Female,1,Light,3.76,15,LAOC,Suburban,3700,No
+40698062,1,29,Some College,Female,2,Vigorous,9.14,45,LAOC,Urban,15000,No
+40701029,1,41,Graduate or Professional Degree,Male,4,Light,3.23,10,LAOC,Urban,18000,No
+40701029,2,42,Some College,Female,4,Vigorous,27.8,120,LAOC,Urban,16000,No
+40701334,1,21,Some College,Female,5,Light,3.78,10,IE,Urban,8000,No
+40701334,2,24,Some College,Male,3,Light,3.74,10,IE,Urban,15000,No
+40702572,1,50,Bachelor Degree,Male,2,Vigorous,4.67,90,LAOC,Suburban,20000,Yes
+40704239,1,45,Graduate or Professional Degree,Female,5,Light,6.31,30,LAOC,Urban,12000,Yes
+40706466,2,71,Graduate or Professional Degree,Male,0,Light,4.83,35,LAOC,Suburban,12000,No
+40706816,1,40,Graduate or Professional Degree,Male,2,Vigorous,2.2,10,LAOC,Urban,7500,No
+40710691,1,61,Graduate or Professional Degree,Male,0,Light,53.14,105,IE,Urban,45000,No
+40710691,2,57,Some College,Female,0,None,62.87,90,IE,Urban,35000,No
+40712098,1,65,Bachelor Degree,Female,1,Light,3.54,15,LAOC,Urban,5000,No
+40714197,1,60,Bachelor Degree,Male,1,Light,26.63,40,LAOC,Suburban,15000,No
+40714552,1,53,Bachelor Degree,Male,2,Light,6.25,15,IE,Urban,8000,No
+40715058,1,40,Bachelor Degree,Male,2,Light,0.63,5,LAOC,Urban,13000,No
+40715643,2,54,Some College,Female,0,Light,10.76,15,IE,Suburban,12000,No
+40716537,2,49,High School Graduate,Male,5,Light,3.02,10,LAOC,Urban,8000,No
+40719384,1,72,Graduate or Professional Degree,Male,1,Light,2.43,5,IE,Suburban,7000,No
+40720780,1,58,Bachelor Degree,Female,4,Vigorous,5.78,20,LAOC,Urban,12000,No
+40720780,2,63,High School Graduate,Male,0,Vigorous,10.36,35,LAOC,Urban,12000,No
+40722353,1,44,Bachelor Degree,Female,25,Vigorous,2.72,5,LAOC,Urban,14000,No
+40724933,1,45,Bachelor Degree,Female,15,Light,24.3,25,LAOC,Urban,35000,No
+40728298,1,61,Bachelor Degree,Male,0,Vigorous,13.47,20,IE,Suburban,12000,No
+40729859,2,56,Bachelor Degree,Female,1,Light,7.91,30,LAOC,Suburban,15000,No
+40729859,3,21,Some College,Female,1,None,2.69,10,LAOC,Suburban,5000,No
+40733701,2,38,Bachelor Degree,Male,5,Vigorous,1.96,45,LAOC,Urban,14000,No
+40734330,1,55,High School Graduate,Male,1,Light,25.42,30,LAOC,Urban,15000,No
+40737161,1,60,Graduate or Professional Degree,Male,1,Light,1.57,10,LAOC,Urban,6000,No
+40738945,1,32,Some College,Female,5,None,15.45,30,LAOC,Urban,12000,No
+40739773,1,68,Bachelor Degree,Male,0,Light,44.26,30,LAOC,Urban,25000,No
+40739773,2,61,High School Graduate,Female,0,Light,8.33,15,LAOC,Urban,11000,No
+40740800,1,57,Graduate or Professional Degree,Female,2,Vigorous,4.62,15,LAOC,Suburban,6000,No
+40740800,2,57,Bachelor Degree,Male,5,Vigorous,21.06,30,LAOC,Suburban,15000,No
+40740800,3,25,Bachelor Degree,Male,1,Vigorous,12.35,30,LAOC,Suburban,16000,No
+40740864,2,29,Some College,Female,1,Vigorous,23.24,60,IE,Suburban,12000,No
+40745907,1,58,Some College,Female,2,Light,17.06,25,IE,Suburban,18000,No
+40746376,1,30,Graduate or Professional Degree,Female,3,Light,11.7,20,LAOC,Suburban,10000,No
+40750167,1,43,Graduate or Professional Degree,Male,1,Light,20.32,25,LAOC,Urban,18000,No
+40752131,1,45,Graduate or Professional Degree,Female,5,Light,3.88,15,IE,Suburban,3500,No
+40752221,3,58,Bachelor Degree,Female,0,Light,20.23,45,LAOC,Suburban,12000,No
+40753879,1,76,Graduate or Professional Degree,Female,0,Light,1.42,10,LAOC,Suburban,1000,No
+40755100,2,30,High School Graduate,Male,10,Vigorous,17.62,30,LAOC,Urban,80000,No
+40755103,3,61,High School Graduate,Male,10,Light,7.9,30,LAOC,Urban,19000,No
+40756092,1,29,Graduate or Professional Degree,Female,5,None,12.87,25,LAOC,Urban,7200,No
+40756627,1,46,Graduate or Professional Degree,Female,10,Light,10.61,20,IE,Suburban,6000,No
+40757075,1,30,Bachelor Degree,Female,0,None,15.33,45,LAOC,Urban,19000,No
+40758865,2,83,Bachelor Degree,Male,5,None,11.73,30,LAOC,Urban,5800,No
+40759013,1,36,Some College,Male,1,Vigorous,4.03,10,IE,Urban,18000,No
+40759615,2,29,Bachelor Degree,Female,0,Vigorous,9.98,30,LAOC,Urban,15000,No
+40761126,2,52,Less than High School,Male,0,Vigorous,2.6,30,LAOC,Urban,40000,No
+40761126,3,19,High School Graduate,Male,0,Light,4.82,25,LAOC,Urban,40000,No
+40765285,1,32,Bachelor Degree,Male,10,Vigorous,5.72,15,LAOC,Small Town/Rural,20000,No
+40765285,2,27,Bachelor Degree,Female,10,Light,10.99,30,LAOC,Small Town/Rural,10000,No
+40766510,1,55,Bachelor Degree,Male,2,Light,49.66,120,LAOC,Suburban,7000,No
+40768180,1,36,Bachelor Degree,Male,1,Light,23.16,50,LAOC,Urban,17000,No
+40768180,2,29,Bachelor Degree,Female,10,Vigorous,18.31,95,LAOC,Urban,9600,No
+40768666,2,51,Some College,Male,0,Light,56.86,70,LAOC,Suburban,35000,No
+40768666,3,24,Some College,Male,3,Vigorous,25.85,60,LAOC,Suburban,8000,No
+40768666,4,19,Some College,Female,2,Vigorous,6.06,15,LAOC,Suburban,4000,No
+40769516,1,71,Graduate or Professional Degree,Female,4,Light,19.85,30,LAOC,Suburban,16000,No
+40769516,2,74,Graduate or Professional Degree,Male,2,None,19.85,30,LAOC,Suburban,1800,No
+40769707,1,55,Bachelor Degree,Female,0,Light,7.38,20,LAOC,Urban,6000,No
+40771454,1,55,Graduate or Professional Degree,Male,1,Light,3.73,15,LAOC,Urban,6000,Yes
+40775644,1,45,Bachelor Degree,Female,1,Light,19.03,40,LAOC,Urban,27000,Yes
+40775721,2,55,Some College,Female,1,Light,2.48,10,IE,Small Town/Rural,10000,No
+40777740,2,67,Some College,Female,20,Light,5.5,15,LAOC,Urban,3000,No
+40778989,1,70,Bachelor Degree,Male,2,Light,27.5,40,IE,Suburban,40000,No
+40779595,1,30,Bachelor Degree,Male,3,Light,44.14,45,IE,Urban,12000,No
+40780128,2,61,Some College,Female,1,Vigorous,3.82,15,LAOC,Suburban,4000,No
+40791160,2,72,High School Graduate,Female,0,None,2.71,10,LAOC,Suburban,2000,No
+40793727,1,61,High School Graduate,Male,4,Light,39.49,45,IE,Suburban,24000,Yes
